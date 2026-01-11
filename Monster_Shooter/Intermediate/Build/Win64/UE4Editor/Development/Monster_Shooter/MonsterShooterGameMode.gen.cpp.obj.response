@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Unreal Project\Monster_Shooter\Source\Monster_Shooter\Private"
+/I "C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Source\Monster_Shooter\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -232,9 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Monster_Shooter"
-/I "C:\Unreal Project\Monster_Shooter\Source"
-/I "C:\Unreal Project\Monster_Shooter\Source\Monster_Shooter\Public"
+/I "C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Monster_Shooter"
+/I "C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Source"
+/I "C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Source\Monster_Shooter\Public"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -268,12 +268,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/FI"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Monster_Shooter\MonsterShooterGameMode.gen.cpp"
-/FI"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Definitions.Monster_Shooter.h"
-/Fo"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooterGameMode.gen.cpp.obj"
+/FI"C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Monster_Shooter\MonsterShooterGameMode.gen.cpp"
+/FI"C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Definitions.Monster_Shooter.h"
+/Fo"C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooterGameMode.gen.cpp.obj"
 /TP
 /GR-
 /W4

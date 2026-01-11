@@ -1,2 +1,2 @@
-C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Definitions.Monster_Shooter.h
-C:\Unreal Project\Monster_Shooter\Source\Monster_Shooter\Monster_Shooter.h
+C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Definitions.Monster_Shooter.h
+C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Source\Monster_Shooter\Monster_Shooter.h

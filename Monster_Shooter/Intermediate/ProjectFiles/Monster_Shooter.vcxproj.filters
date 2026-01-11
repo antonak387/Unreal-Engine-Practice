@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Monster_Shooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{4A3B04AB-2843-47FC-983E-A712B55F4115}</UniqueIdentifier>
+      <UniqueIdentifier>{2A51A6B3-5F7C-421F-94AA-8F5E6D8BA351}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monster_Shooter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5441CFD8-3818-4CD7-A842-4A05351090BB}</UniqueIdentifier>
+      <UniqueIdentifier>{E9D19F4F-925A-4BD4-A98B-D57A3043CE01}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Monster_Shooter">
-      <UniqueIdentifier>{B6A28B3A-C04F-4DEF-9B58-16EF56C31C04}</UniqueIdentifier>
+      <UniqueIdentifier>{6144158C-48CF-4199-90E5-86533ACB6509}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monster_Shooter\Monster_Shooter.Build.cs">
       <Filter>Source\Monster_Shooter</Filter>
@@ -66,21 +66,33 @@
       <Filter>Source\Monster_Shooter</Filter>
     </ClInclude>
     <Filter Include="Source\Monster_Shooter\Private">
-      <UniqueIdentifier>{092FDA37-F767-4D1B-8601-82297714659A}</UniqueIdentifier>
+      <UniqueIdentifier>{F9BD2450-9B8E-4715-BBE1-7E1D330AC711}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Monster_Shooter\Private\MonsterShooterCharacter.cpp">
+      <Filter>Source\Monster_Shooter\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Monster_Shooter\Private\MonsterShooterEnemy.cpp">
       <Filter>Source\Monster_Shooter\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\Monster_Shooter\Private\MonsterShooterGameMode.cpp">
       <Filter>Source\Monster_Shooter\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Monster_Shooter\Private\MonsterShooterProjectile.cpp">
+      <Filter>Source\Monster_Shooter\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Monster_Shooter\Public">
-      <UniqueIdentifier>{8576CEFC-A550-45D5-9DAE-AA1009357752}</UniqueIdentifier>
+      <UniqueIdentifier>{224E1898-E30D-4820-96C0-1BEDE4EE500F}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\Monster_Shooter\Public\MonsterShooterCharacter.h">
       <Filter>Source\Monster_Shooter\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\Monster_Shooter\Public\MonsterShooterEnemy.h">
+      <Filter>Source\Monster_Shooter\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Monster_Shooter\Public\MonsterShooterGameMode.h">
+      <Filter>Source\Monster_Shooter\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Monster_Shooter\Public\MonsterShooterProjectile.h">
       <Filter>Source\Monster_Shooter\Public</Filter>
     </ClInclude>
   </ItemGroup>

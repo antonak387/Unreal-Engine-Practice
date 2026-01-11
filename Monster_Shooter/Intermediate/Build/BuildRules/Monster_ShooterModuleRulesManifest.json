@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Unreal Project\\Monster_Shooter\\Source\\Monster_Shooter\\Monster_Shooter.Build.cs",
-		"C:\\Unreal Project\\Monster_Shooter\\Source\\Monster_Shooter.Target.cs",
-		"C:\\Unreal Project\\Monster_Shooter\\Source\\Monster_ShooterEditor.Target.cs"
+		"C:\\Unreal Project\\Unreal-Engine-Practice\\Monster_Shooter\\Source\\Monster_Shooter\\Monster_Shooter.Build.cs",
+		"C:\\Unreal Project\\Unreal-Engine-Practice\\Monster_Shooter\\Source\\Monster_Shooter.Target.cs",
+		"C:\\Unreal Project\\Unreal-Engine-Practice\\Monster_Shooter\\Source\\Monster_ShooterEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
