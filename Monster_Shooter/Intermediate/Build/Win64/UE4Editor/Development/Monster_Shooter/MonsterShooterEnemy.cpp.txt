@@ -7,3 +7,9 @@ D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFra
 D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Monster_Shooter\MonsterShooterEnemy.generated.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Source\Monster_Shooter\Public\MonsterShooterCharacter.h
+C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Monster_Shooter\MonsterShooterCharacter.generated.h

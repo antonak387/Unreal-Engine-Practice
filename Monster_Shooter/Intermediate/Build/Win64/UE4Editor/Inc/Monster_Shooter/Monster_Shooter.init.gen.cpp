@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMonster_Shooter_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xBB862B2A,
+				0xA9FCEE9A,
 				0x6B4F63D6,
 				METADATA_PARAMS(nullptr, 0)
 			};

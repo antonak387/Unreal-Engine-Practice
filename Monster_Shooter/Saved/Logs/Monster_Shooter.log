@@ -1425,3 +1425,1298 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.01.11-18.39.23:937][139]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0164 seconds. Added 3831 classes and 933 folders.
 [2026.01.11-18.39.23:942][139]Display: HotReload took  0.1s.
 [2026.01.11-18.40.23:756][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2026.01.11-18.52.04:900][201]LogHotReload: New module detected: UE4Editor-Monster_Shooter-0010.dll
+[2026.01.11-18.52.06:027][253]LogHotReload: Starting Hot-Reload from IDE
+[2026.01.11-18.52.06:130][253]LogClass: Could not find existing class MonsterShooterEnemy in package /Script/Monster_Shooter for HotReload, assuming new class
+[2026.01.11-18.52.06:130][253]LogClass: Function OnHit is new.
+[2026.01.11-18.52.06:166][253]LogHotReload: Re-instancing MonsterShooterEnemy after hot-reload.
+[2026.01.11-18.52.06:212][253]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Monster_Shooter' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2026.01.11-18.52.06:221][253]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2026.01.11-18.52.06:435][253]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0110 seconds. Added 3831 classes and 933 folders.
+[2026.01.11-18.52.06:439][253]Display: HotReload took  0.4s.
+[2026.01.11-18.52.10:336][424]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.11-18.52.10:340][424]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2026.01.11-18.52.27:785][424]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.11-18.52.42:440][558]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.11-18.52.42:451][558]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.11-18.52.42:472][558]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.11-18.52.56:544][401]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2026.01.11-18.52.56:550][401]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.11-18.53.06:145][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2026.01.11-18.54.00:901][639]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.11-18.54.00:922][639]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.11-18.54.03:845][815]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2026.01.11-18.54.03:845][815]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.11-18.54.17:107][990]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Unreal Project\Unreal-Engine-Practice\Zombi Assets\copzombie_l_actisdato.fbx)
+[2026.01.11-18.54.17:209][990]LogFbx: Loading FBX Scene from C:\Unreal Project\Unreal-Engine-Practice\Zombi Assets\copzombie_l_actisdato.fbx
+[2026.01.11-18.54.17:321][990]LogFbx: FBX Scene Loaded Succesfully
+[2026.01.11-18.54.20:177][990]LogSlate: Window 'FBX Import Options' being destroyed
+[2026.01.11-18.54.20:244][990]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2026.01.11-18.54.20:244][990]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Glass : The relative matrices do not match
+[2026.01.11-18.54.20:246][990]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyes : The relative matrices do not match
+[2026.01.11-18.54.20:246][990]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node FuzZombie : The relative matrices do not match
+[2026.01.11-18.54.20:247][990]LogFbx: Valid bind pose for Pose (skinCluster2) - Hair
+[2026.01.11-18.54.20:247][990]LogFbx: Valid bind pose for Pose (skinCluster3) - Hair
+[2026.01.11-18.54.20:248][990]LogFbx: Valid bind pose for Pose (skinCluster4) - Hair
+[2026.01.11-18.54.20:261][990]LogMaterial: Display: Material /Game/Mesh/glass_hair_M.glass_hair_M needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.11-18.54.20:265][990]LogMaterial: Display: Missing cached shadermap for glass_hair_M in PCD3D_SM5, Default, SM5 (DDC key hash: A96F7B86CDE7E687D1884B3276326CE453A3ECC1), compiling. 
+[2026.01.11-18.54.20:337][990]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.11-18.54.20:509][990]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2026.01.11-18.54.20:509][990]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2026.01.11-18.54.20:511][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2026.01.11-18.54.20:511][990]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2026.01.11-18.54.20:511][990]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2026.01.11-18.54.20:511][990]LogTexture: Display: Building textures: FuzZombie_diffuse (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.21:137][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.21:137][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.21:463][990]LogTexture: Display: Building textures: FuzZombie_specular (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.22:158][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.22:158][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.22:475][990]LogTexture: Display: Building textures: FuzZombie_normal (OODLE_BC5, 2048X2048)
+[2026.01.11-18.54.22:724][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.22:724][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.23:040][990]LogTexture: Display: Building textures: FuzZombie_diffuse (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.23:853][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.23:853][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.23:897][990]LogMaterial: Display: Missing cached shadermap for glass_hair_M in PCD3D_SM5, Default, SM5 (DDC key hash: E5469431F9948E9B9794CBE52BBD1D793C45E70E), compiling. 
+[2026.01.11-18.54.23:909][990]LogMaterial: Display: Material /Game/Mesh/glass_hair_M_ncl1_1.glass_hair_M_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.11-18.54.23:920][990]LogMaterial: Display: Missing cached shadermap for glass_hair_M_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F590DB5B651F8656632ECA44ECF09F81918D3BC), compiling. 
+[2026.01.11-18.54.23:984][990]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.11-18.54.24:257][990]LogTexture: Display: Building textures: FuzZombie_diffuse (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.25:061][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.25:061][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.25:385][990]LogTexture: Display: Building textures: FuzZombie_specular (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.26:075][990]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2026.01.11-18.54.26:075][990]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2026.01.11-18.54.26:075][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.26:075][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.26:117][990]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie_normal
+[2026.01.11-18.54.26:403][990]LogTexture: Display: Building textures: FuzZombie_normal (OODLE_BC5, 2048X2048)
+[2026.01.11-18.54.26:656][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.26:656][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.26:962][990]LogTexture: Display: Building textures: FuzZombie_diffuse (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.27:762][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.27:762][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.27:807][990]LogMaterial: Display: Missing cached shadermap for glass_hair_M_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DC25DFDB572CF485806C7E9648993C2CCC56828D), compiling. 
+[2026.01.11-18.54.27:815][990]LogMaterial: Display: Material /Game/Mesh/body_M.body_M needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.11-18.54.27:826][990]LogMaterial: Display: Missing cached shadermap for body_M in PCD3D_SM5, Default, SM5 (DDC key hash: BB3373B23413B8751D0156EEEF7704656086BC3B), compiling. 
+[2026.01.11-18.54.27:887][990]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.11-18.54.28:091][990]LogTexture: Display: Building textures: FuzZombie_body_diffuse (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.28:830][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.01.11-18.54.28:830][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2026.01.11-18.54.29:128][990]LogTexture: Display: Building textures: FuzZombie_specular (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.29:822][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.29:823][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.29:861][990]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie_normal
+[2026.01.11-18.54.30:136][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2026.01.11-18.54.30:136][990]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2026.01.11-18.54.30:142][990]LogTexture: Display: Building textures: FuzZombie_normal (OODLE_BC5, 2048X2048)
+[2026.01.11-18.54.30:395][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.30:395][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.30:449][990]LogMaterial: Display: Missing cached shadermap for body_M in PCD3D_SM5, Default, SM5 (DDC key hash: 38531FFBE6F07CCE73FB21E014C9880B0CC33EDE), compiling. 
+[2026.01.11-18.54.30:461][990]LogMaterial: Display: Material /Game/Mesh/body_M1.body_M1 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.11-18.54.30:464][990]LogMaterial: Display: Missing cached shadermap for body_M1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD7C272044464F9F62F06C3E260B36FC956A42B), compiling. 
+[2026.01.11-18.54.30:534][990]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2026.01.11-18.54.30:805][990]LogTexture: Display: Building textures: FuzZombie_diffuse_ncl1_1 (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.31:604][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.31:604][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.31:898][990]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2026.01.11-18.54.31:898][990]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2026.01.11-18.54.31:898][990]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2026.01.11-18.54.31:898][990]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2026.01.11-18.54.31:903][990]LogTexture: Display: Building textures: FuzZombie_specular (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.32:590][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.32:591][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.32:616][990]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie_normal
+[2026.01.11-18.54.32:885][990]LogTexture: Display: Building textures: FuzZombie_normal (OODLE_BC5, 2048X2048)
+[2026.01.11-18.54.33:138][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.33:138][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2026.01.11-18.54.33:444][990]LogTexture: Display: Building textures: FuzZombie_diffuse_ncl1_1 (OODLE_AutoDXT, 2048X2048)
+[2026.01.11-18.54.34:258][990]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.34:260][990]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2026.01.11-18.54.34:317][990]LogMaterial: Display: Missing cached shadermap for body_M1 in PCD3D_SM5, Default, SM5 (DDC key hash: DE8054A55CFEE3D252176315FD6ECDF6074B7761), compiling. 
+[2026.01.11-18.54.34:363][990]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2026.01.11-18.54.34:885][990]LogSkeletalMesh: Section 0: Material=0, 426 triangles
+[2026.01.11-18.54.34:886][990]LogSkeletalMesh: Section 1: Material=1, 536 triangles
+[2026.01.11-18.54.34:886][990]LogSkeletalMesh: Section 2: Material=2, 8837 triangles
+[2026.01.11-18.54.34:886][990]LogSkeletalMesh: Section 3: Material=3, 46 triangles
+[2026.01.11-18.54.34:986][990]LogSkeletalMesh: Building Skeletal Mesh copzombie_l_actisdato...
+[2026.01.11-18.54.35:398][990]LogSkeletalMesh: Section 0: Material=0, 426 triangles
+[2026.01.11-18.54.35:399][990]LogSkeletalMesh: Section 1: Material=1, 536 triangles
+[2026.01.11-18.54.35:399][990]LogSkeletalMesh: Section 2: Material=2, 8837 triangles
+[2026.01.11-18.54.35:399][990]LogSkeletalMesh: Section 3: Material=3, 46 triangles
+[2026.01.11-18.54.35:427][990]LogSkeletalMesh: Built Skeletal Mesh [0.44s] /Game/Mesh/copzombie_l_actisdato.copzombie_l_actisdato
+[2026.01.11-18.54.35:442][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.11-18.54.35:442][990]LogShaderCompilers: Display: Total job queries 128, among them cache hits 0 (0.00%)
+[2026.01.11-18.54.35:442][990]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 23 distinct outputs (56.10%)
+[2026.01.11-18.54.35:442][990]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2026.01.11-18.54.35:442][990]LogShaderCompilers: Display: ================================================
+[2026.01.11-18.54.35:446][990]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-18.54.35:446][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(0) Hips
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(1) Spine
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(2) Spine1
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(3) Spine2
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(4) Neck
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(5) Head
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(7) LeftEye
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(8) RightEye
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(9) LeftShoulder
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(10) LeftArm
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(11) LeftForeArm
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(12) LeftHand
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2026.01.11-18.54.35:495][990]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(25) LeftHandRing1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(26) LeftHandRing2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(27) LeftHandRing3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(28) LeftHandRing4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(33) RightShoulder
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(34) RightArm
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(35) RightForeArm
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(36) RightHand
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(37) RightHandThumb1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(38) RightHandThumb2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(39) RightHandThumb3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(40) RightHandThumb4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(41) RightHandIndex1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(42) RightHandIndex2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(43) RightHandIndex3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(44) RightHandIndex4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(49) RightHandRing1
+[2026.01.11-18.54.35:496][990]LogFbx: SortedLinks :(50) RightHandRing2
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(51) RightHandRing3
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(52) RightHandRing4
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(53) RightHandPinky1
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(54) RightHandPinky2
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(55) RightHandPinky3
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(56) RightHandPinky4
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(57) LeftUpLeg
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(58) LeftLeg
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(59) LeftFoot
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(60) LeftToeBase
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(61) LeftToe_End
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(62) RightUpLeg
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(63) RightLeg
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(64) RightFoot
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(65) RightToeBase
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(66) RightToe_End
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(0) Hips
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(1) Spine
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(2) Spine1
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(3) Spine2
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(4) Neck
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(5) Head
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(7) LeftEye
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(8) RightEye
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(9) LeftShoulder
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(10) LeftArm
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(11) LeftForeArm
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(12) LeftHand
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2026.01.11-18.54.35:497][990]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(25) LeftHandRing1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(26) LeftHandRing2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(27) LeftHandRing3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(28) LeftHandRing4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(33) RightShoulder
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(34) RightArm
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(35) RightForeArm
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(36) RightHand
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(37) RightHandThumb1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(38) RightHandThumb2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(39) RightHandThumb3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(40) RightHandThumb4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(41) RightHandIndex1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(42) RightHandIndex2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(43) RightHandIndex3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(44) RightHandIndex4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(49) RightHandRing1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(50) RightHandRing2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(51) RightHandRing3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(52) RightHandRing4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(53) RightHandPinky1
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(54) RightHandPinky2
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(55) RightHandPinky3
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(56) RightHandPinky4
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(57) LeftUpLeg
+[2026.01.11-18.54.35:498][990]LogFbx: SortedLinks :(58) LeftLeg
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(59) LeftFoot
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(60) LeftToeBase
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(61) LeftToe_End
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(62) RightUpLeg
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(63) RightLeg
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(64) RightFoot
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(65) RightToeBase
+[2026.01.11-18.54.35:499][990]LogFbx: SortedLinks :(66) RightToe_End
+[2026.01.11-18.54.35:502][990]LogFbx: Parsing AnimStack Take 001
+[2026.01.11-18.54.36:424][990]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mesh/copzombie_l_actisdato_Anim_Take_001.copzombie_l_actisdato_Anim_Take_001
+[2026.01.11-18.54.36:424][990]LogFbx: Parsing AnimStack mixamo.com
+[2026.01.11-18.54.36:489][990]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mesh/copzombie_l_actisdato_Anim_mixamo_com.copzombie_l_actisdato_Anim_mixamo_com
+[2026.01.11-18.54.36:534][990]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'glass_hair_M' was renamed 'glass_hair_M_ncl1_1' 
+[2026.01.11-18.54.36:534][990]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'FuzZombie_diffuse' was renamed 'FuzZombie_diffuse_ncl1_1' 
+[2026.01.11-18.54.36:534][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2026.01.11-18.54.36:783][995]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.36:783][995]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2026.01.11-18.54.36:783][995]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2026.01.11-18.54.36:783][995]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.36:783][995]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.36:783][995]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.36:788][995]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2026.01.11-18.54.36:788][995]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.36:790][995]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.37:009][995]LogShaderCompilers: Display: Submitted 62 shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.37:023][995]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.37:071][995]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.37:196][995]LogShaderCompilers: Display: Submitted 62 shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.37:325][995]LogShaderCompilers: Display: Submitted 62 shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.37:501][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2026.01.11-18.54.37:501][  4]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.37:676][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2026.01.11-18.54.37:676][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2026.01.11-18.54.37:676][ 13]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.38:699][ 56]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2026.01.11-18.54.38:699][ 56]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.39:707][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2026.01.11-18.54.39:707][106]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2026.01.11-18.54.40:644][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 208
+[2026.01.11-18.54.40:644][154]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.40:710][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 198
+[2026.01.11-18.54.40:710][157]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.40:989][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 188
+[2026.01.11-18.54.40:989][172]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.42:220][237]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 178
+[2026.01.11-18.54.42:220][237]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.51:192][690]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 168
+[2026.01.11-18.54.51:192][690]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.53:486][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 158
+[2026.01.11-18.54.53:486][791]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.54:710][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 148
+[2026.01.11-18.54.54:710][845]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.54.54:894][853]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 138
+[2026.01.11-18.54.54:894][853]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.00:661][104]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 128
+[2026.01.11-18.55.00:662][104]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.05:313][304]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 118
+[2026.01.11-18.55.05:313][304]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.05:969][332]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2026.01.11-18.55.05:969][332]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.09:103][468]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2026.01.11-18.55.09:103][468]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.13:263][649]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2026.01.11-18.55.13:263][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.16:097][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2026.01.11-18.55.16:097][772]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.17:685][842]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2026.01.11-18.55.17:685][842]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.20:760][976]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2026.01.11-18.55.20:761][976]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.23:129][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2026.01.11-18.55.23:129][ 80]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.25:388][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2026.01.11-18.55.25:388][173]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.28:433][309]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2026.01.11-18.55.28:433][309]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.33:373][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2026.01.11-18.55.33:373][521]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.34:058][549]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2026.01.11-18.55.34:058][549]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.37:722][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2026.01.11-18.55.37:723][711]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.37:748][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2026.01.11-18.55.37:748][712]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.38:737][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2026.01.11-18.55.38:737][756]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.38:855][761]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2026.01.11-18.55.38:855][761]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.39:396][783]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2026.01.11-18.55.39:396][783]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.55.40:076][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2026.01.11-18.55.40:076][814]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2026.01.11-18.56.20:136][194]LogSlate: Window 'Message Log' being destroyed
+[2026.01.11-18.56.20:142][194]LogSlate: Window 'Message Log' being destroyed
+[2026.01.11-18.56.25:110][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Unreal Project\Unreal-Engine-Practice\Zombi Assets\Walking.fbx)
+[2026.01.11-18.56.25:127][354]LogFbx: Loading FBX Scene from C:\Unreal Project\Unreal-Engine-Practice\Zombi Assets\Walking.fbx
+[2026.01.11-18.56.25:158][354]LogFbx: FBX Scene Loaded Succesfully
+[2026.01.11-18.56.27:462][354]LogSlate: Window 'FBX Import Options' being destroyed
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(0) Hips
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(1) Spine
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(2) Spine1
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(3) Spine2
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(4) Neck
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(5) Head
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(6) HeadTop_End
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(7) LeftEye
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(8) RightEye
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(9) LeftShoulder
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(10) LeftArm
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(11) LeftForeArm
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(12) LeftHand
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(25) LeftHandRing1
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(26) LeftHandRing2
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(27) LeftHandRing3
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(28) LeftHandRing4
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(33) RightShoulder
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(34) RightArm
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(35) RightForeArm
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(36) RightHand
+[2026.01.11-18.56.27:498][354]LogFbx: SortedLinks :(37) RightHandThumb1
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(38) RightHandThumb2
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(39) RightHandThumb3
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(40) RightHandThumb4
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(41) RightHandIndex1
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(42) RightHandIndex2
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(43) RightHandIndex3
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(44) RightHandIndex4
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(49) RightHandRing1
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(50) RightHandRing2
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(51) RightHandRing3
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(52) RightHandRing4
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(53) RightHandPinky1
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(54) RightHandPinky2
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(55) RightHandPinky3
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(56) RightHandPinky4
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(57) LeftUpLeg
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(58) LeftLeg
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(59) LeftFoot
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(60) LeftToeBase
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(61) LeftToe_End
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(62) RightUpLeg
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(63) RightLeg
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(64) RightFoot
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(65) RightToeBase
+[2026.01.11-18.56.27:499][354]LogFbx: SortedLinks :(66) RightToe_End
+[2026.01.11-18.56.27:499][354]LogFbx: Parsing AnimStack mixamo.com
+[2026.01.11-18.56.27:703][354]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mesh/Walking.Walking
+[2026.01.11-18.56.27:703][354]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mesh/Walking.Walking
+[2026.01.11-18.56.27:703][354]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Unreal Project\Unreal-Engine-Practice\Zombi Assets\Zombie Attack.fbx)
+[2026.01.11-18.56.27:736][354]LogFbx: Loading FBX Scene from C:\Unreal Project\Unreal-Engine-Practice\Zombi Assets\Zombie Attack.fbx
+[2026.01.11-18.56.27:762][354]LogFbx: FBX Scene Loaded Succesfully
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(0) Hips
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(1) Spine
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(2) Spine1
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(3) Spine2
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(4) Neck
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(5) Head
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(6) HeadTop_End
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(7) LeftEye
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(8) RightEye
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(9) LeftShoulder
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(10) LeftArm
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(11) LeftForeArm
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(12) LeftHand
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(25) LeftHandRing1
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(26) LeftHandRing2
+[2026.01.11-18.56.27:763][354]LogFbx: SortedLinks :(27) LeftHandRing3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(28) LeftHandRing4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(33) RightShoulder
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(34) RightArm
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(35) RightForeArm
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(36) RightHand
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(37) RightHandThumb1
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(38) RightHandThumb2
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(39) RightHandThumb3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(40) RightHandThumb4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(41) RightHandIndex1
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(42) RightHandIndex2
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(43) RightHandIndex3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(44) RightHandIndex4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(49) RightHandRing1
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(50) RightHandRing2
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(51) RightHandRing3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(52) RightHandRing4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(53) RightHandPinky1
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(54) RightHandPinky2
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(55) RightHandPinky3
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(56) RightHandPinky4
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(57) LeftUpLeg
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(58) LeftLeg
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(59) LeftFoot
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(60) LeftToeBase
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(61) LeftToe_End
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(62) RightUpLeg
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(63) RightLeg
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(64) RightFoot
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(65) RightToeBase
+[2026.01.11-18.56.27:764][354]LogFbx: SortedLinks :(66) RightToe_End
+[2026.01.11-18.56.27:764][354]LogFbx: Parsing AnimStack mixamo.com
+[2026.01.11-18.56.27:988][355]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mesh/Zombie_Attack.Zombie_Attack
+[2026.01.11-18.59.08:960][393]BlueprintLog: New page: Compile BP_Enemy
+[2026.01.11-18.59.09:165][393]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2026.01.11-18.59.10:767][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2026.01.11-18.59.10:780][480]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/BP_Enemy531A0FA346FA4C6963FF3B92EC45425D.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2026.01.11-18.59.10:806][480]AssetCheck: New page: Asset Save: BP_Enemy
+[2026.01.11-18.59.10:806][480]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2026.01.11-18.59.13:381][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MosterShooterCharacter" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Blueprints/BP_MosterShooterCharacter.uasset" SILENT=true
+[2026.01.11-18.59.13:389][627]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/BP_MosterShooterCharacter2CF6272C478AE75723B35193D093A527.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Blueprints/BP_MosterShooterCharacter.uasset'
+[2026.01.11-18.59.13:408][627]AssetCheck: New page: Asset Save: BP_MosterShooterCharacter
+[2026.01.11-18.59.13:408][627]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MosterShooterCharacter.BP_MosterShooterCharacter
+[2026.01.11-18.59.59:838][348]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-18.59.59:838][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.00.00:412][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.11-19.00.00:412][375]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.00.00:412][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.00.16:107][737]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.11-19.00.16:126][737]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.11-19.00.23:618][187]LogContentBrowser: Attempting asset rename: NewFolder -> MeshesAnimated
+[2026.01.11-19.00.23:619][187]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.11-19.00.41:632][877]LogContentBrowser: Attempting asset rename: MeshesAnimated -> EnemyAnimation
+[2026.01.11-19.01.13:108][262]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.11-19.01.40:751][565]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.11-19.01.56:595][932]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.11-19.02.19:349][409]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.01.11-19.02.19:371][409]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2026.01.11-19.02.19:391][409]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2026.01.11-19.02.24:981][587]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2026.01.11-19.02.24:983][587]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2026.01.11-19.02.56:640][843]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> zombieRunning
+[2026.01.11-19.02.56:716][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAnimation/zombieRunning" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/zombieRunning.uasset" SILENT=true
+[2026.01.11-19.02.56:721][843]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/zombieRunningB4DA670242B1A43CB78E0F8E6CFCF721.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/zombieRunning.uasset'
+[2026.01.11-19.02.56:912][843]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2026.01.11-19.02.57:041][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2026.01.11-19.02.57:059][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.11-19.02.57:092][843]AssetCheck: New page: Asset Save: zombieRunning
+[2026.01.11-19.02.57:092][843]LogContentValidation: Display: Validating BlendSpace1D /Game/EnemyAnimation/zombieRunning.zombieRunning
+[2026.01.11-19.02.57:804][882]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/EnemyAnimation/zombieRunning.zombieRunning
+[2026.01.11-19.02.57:892][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.02.58:444][882]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2026.01.11-19.04.11:276][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAnimation/zombieRunning" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/zombieRunning.uasset" SILENT=true
+[2026.01.11-19.04.11:282][626]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/zombieRunningF0EE24FE4460D628DF6E7BAC6CA4D86D.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/zombieRunning.uasset'
+[2026.01.11-19.04.11:299][626]AssetCheck: New page: Asset Save: zombieRunning
+[2026.01.11-19.04.11:299][626]LogContentValidation: Display: Validating BlendSpace1D /Game/EnemyAnimation/zombieRunning.zombieRunning
+[2026.01.11-19.04.50:223][701]Cmd: TRANSACTION UNDO
+[2026.01.11-19.04.50:225][701]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2026.01.11-19.04.50:311][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.04.54:904][961]Cmd: TRANSACTION UNDO
+[2026.01.11-19.04.54:904][961]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2026.01.11-19.04.54:972][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.04.59:033][188]Cmd: TRANSACTION UNDO
+[2026.01.11-19.04.59:033][188]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2026.01.11-19.04.59:130][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.05.02:314][361]Cmd: TRANSACTION UNDO
+[2026.01.11-19.05.02:314][361]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2026.01.11-19.05.02:382][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.07.35:361][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2026.01.11-19.07.35:365][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.066
+[2026.01.11-19.07.35:365][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/copzombie_l_actisdato] ([1] browsable assets)...
+[2026.01.11-19.07.35:408][861]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mesh/copzombie_l_actisdato.copzombie_l_actisdato]
+[2026.01.11-19.07.35:408][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/copzombie_l_actisdato]
+[2026.01.11-19.07.35:446][861]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_Auto343A78EE44CB39B5AFF99AF81A0280509.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/Autosaves/Game/Mesh/copzombie_l_actisdato_Auto3.uasset'
+[2026.01.11-19.07.35:448][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mesh/copzombie_l_actisdato_Skeleton] ([1] browsable assets)...
+[2026.01.11-19.07.35:448][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/copzombie_l_actisdato_Skeleton]
+[2026.01.11-19.07.35:451][861]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_Skeleton_A0F63CDD94EEC93FAB2842CB5377179E9.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/Autosaves/Game/Mesh/copzombie_l_actisdato_Skeleton_Auto3.uasset'
+[2026.01.11-19.07.35:452][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/copzombie_l_actisdato_PhysicsAsset] ([1] browsable assets)...
+[2026.01.11-19.07.35:494][861]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mesh/copzombie_l_actisdato_PhysicsAsset.copzombie_l_actisdato_PhysicsAsset]
+[2026.01.11-19.07.35:494][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/copzombie_l_actisdato_PhysicsAsset]
+[2026.01.11-19.07.35:503][861]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_PhysicsAss926857A847662341A31F2A8F733F1467.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/Autosaves/Game/Mesh/copzombie_l_actisdato_PhysicsAsset_Auto3.uasset'
+[2026.01.11-19.07.35:505][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EnemyAnimation/zombieRunning] ([1] browsable assets)...
+[2026.01.11-19.07.35:547][861]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/EnemyAnimation/zombieRunning.zombieRunning]
+[2026.01.11-19.07.35:547][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyAnimation/zombieRunning]
+[2026.01.11-19.07.35:551][861]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/zombieRunning_Auto3143E3407432B8149BA67C09237025A36.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/Autosaves/Game/EnemyAnimation/zombieRunning_Auto3.uasset'
+[2026.01.11-19.07.35:552][861]LogFileHelpers: Auto-saving content packages took 0.188
+[2026.01.11-19.07.57:058][118]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.11-19.07.57:061][118]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2026.01.11-19.08.12:851][118]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.11-19.08.17:132][345]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2026.01.11-19.08.55:774][345]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2026.01.11-19.08.55:789][345]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2026.01.11-19.08.55:806][345]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2026.01.11-19.09.00:807][389]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2026.01.11-19.09.00:815][389]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2026.01.11-19.09.28:263][480]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_enemyUnderscoryAnimation
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.BP_enemyUnderscoryAnimation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.SKEL_BP_enemyUnderscoryAnimation_C:AnimGraph' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.SKEL_BP_enemyUnderscoryAnimation_C' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.BP_enemyUnderscoryAnimation_C:AnimGraph' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.BP_enemyUnderscoryAnimation_C' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.BP_enemyUnderscoryAnimation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:290][480]LogMetaData: Removing '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.BP_enemyUnderscoryAnimation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/EnemyAnimation/NewAnimBlueprint.PackageMetaData'
+[2026.01.11-19.09.28:354][480]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/BP_enemyUnderscoryAnimation68D67D2141714212C9AFC69E48D69D68.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/BP_enemyUnderscoryAnimation.uasset'
+[2026.01.11-19.09.28:467][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2026.01.11-19.09.28:501][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.01.11-19.09.28:525][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.11-19.09.28:584][480]AssetCheck: New page: Asset Save: BP_enemyUnderscoryAnimation
+[2026.01.11-19.09.28:584][480]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimation/BP_enemyUnderscoryAnimation.BP_enemyUnderscoryAnimation
+[2026.01.11-19.09.44:861][439]LogContentBrowser: Attempting asset rename: BP_enemyUnderscoryAnimation -> BP_Enemy_Animation
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation_C' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation_C:AnimGraph' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.SKEL_BP_Enemy_Animation_C' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.SKEL_BP_Enemy_Animation_C:AnimGraph' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:896][439]LogMetaData: Removing '/Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/EnemyAnimation/BP_enemyUnderscoryAnimation.PackageMetaData'
+[2026.01.11-19.09.44:948][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAnimation/BP_Enemy_Animation" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/BP_Enemy_Animation.uasset" SILENT=true
+[2026.01.11-19.09.44:955][439]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/BP_Enemy_AnimationC0CAA54E4B1D40C649B422A806B1E0ED.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/BP_Enemy_Animation.uasset'
+[2026.01.11-19.09.45:035][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2026.01.11-19.09.45:074][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.01.11-19.09.45:099][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.11-19.09.45:151][439]AssetCheck: New page: Asset Save: BP_Enemy_Animation
+[2026.01.11-19.09.45:151][439]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation
+[2026.01.11-19.09.49:280][527]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation
+[2026.01.11-19.09.49:289][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.10.18:445][ 95]LogSlate: Took 0.010901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.11-19.11.19:629][545]LogEditorTransaction: Undo Create Pin Link
+[2026.01.11-19.11.19:773][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.11.19:775][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.01.11-19.12.52:028][179]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2026.01.11-19.13.29:504][117]BlueprintLog: New page: Compile BP_Enemy_Animation
+[2026.01.11-19.13.29:561][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2026.01.11-19.14.13:347][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAnimation/BP_Enemy_Animation" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/BP_Enemy_Animation.uasset" SILENT=true
+[2026.01.11-19.14.13:362][724]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/BP_Enemy_Animation6F65E1AA497F1EA1F3D20BB1D9BC60A4.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/BP_Enemy_Animation.uasset'
+[2026.01.11-19.14.13:381][724]AssetCheck: New page: Asset Save: BP_Enemy_Animation
+[2026.01.11-19.14.13:381][724]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimation/BP_Enemy_Animation.BP_Enemy_Animation
+[2026.01.11-19.14.14:350][778]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.14.14:350][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.14.14:362][778]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.14.14:362][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.14.14:450][778]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.14.14:450][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.14.16:564][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAnimation/zombieRunning" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/zombieRunning.uasset" SILENT=true
+[2026.01.11-19.14.16:566][895]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/zombieRunning2BC242C347C017F535FADFA3360A76B8.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/EnemyAnimation/zombieRunning.uasset'
+[2026.01.11-19.14.16:582][895]AssetCheck: New page: Asset Save: zombieRunning
+[2026.01.11-19.14.16:582][895]LogContentValidation: Display: Validating BlendSpace1D /Game/EnemyAnimation/zombieRunning.zombieRunning
+[2026.01.11-19.14.17:612][954]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.14.17:613][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.14.17:677][954]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.14.17:677][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.14.39:138][395]LogRenderer: Reallocating scene render targets to support 1220x660 Format 10 NumSamples 1 (Frame:4433).
+[2026.01.11-19.15.16:355][719]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.11-19.15.16:374][719]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.01.11-19.15.23:575][973]BlueprintLog: New page: Compile BP_Enemy
+[2026.01.11-19.15.23:657][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2026.01.11-19.15.24:207][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2026.01.11-19.15.24:216][  2]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/BP_Enemy7707FB114C74DC2AD400A1A75194CB26.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2026.01.11-19.15.24:232][  2]AssetCheck: New page: Asset Save: BP_Enemy
+[2026.01.11-19.15.24:232][  2]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2026.01.11-19.16.02:215][152]LogTemp: Repeating last play command: Selected Viewport
+[2026.01.11-19.16.02:225][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.11-19.16.02:225][152]PIE: New page: PIE session: FirstPersonExampleMap (12 янв. 2026 г., 01:16:02)
+[2026.01.11-19.16.02:225][152]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2026.01.11-19.16.02:240][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015054s)
+[2026.01.11-19.16.02:242][152]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2026.01.11-19.16.02:242][152]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2026.01.11-19.16.02:242][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016461s)
+[2026.01.11-19.16.02:272][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2026.01.11-19.16.02:275][152]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.11-19.16.02:275][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.11-19.16.02:275][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.11-19.16.02:275][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.11-19.16.02:275][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.11-19.16.02:275][152]LogAudioMixer: Display: Initializing audio mixer.
+[2026.01.11-19.16.02:279][152]LogAudioMixer: Display: 0: FrontLeft
+[2026.01.11-19.16.02:279][152]LogAudioMixer: Display: 1: FrontRight
+[2026.01.11-19.16.02:299][152]LogAudioMixer: Display: Using Audio Device Headphones (Pixel Buds Pro (антон))
+[2026.01.11-19.16.02:299][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.11-19.16.02:299][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.11-19.16.02:299][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.11-19.16.02:299][152]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.01.11-19.16.02:299][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.01.11-19.16.02:299][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.01.11-19.16.02:301][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.01.11-19.16.02:301][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.01.11-19.16.02:301][152]LogInit: FAudioDevice initialized.
+[2026.01.11-19.16.02:301][152]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2026.01.11-19.16.02:353][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-19.16.02:353][152]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2026.01.11-19.16.02:357][152]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2026.01.11-22.16.02
+[2026.01.11-19.16.02:360][152]LogWorld: Bringing up level for play took: 0.006433
+[2026.01.11-19.16.02:361][152]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2026.01.11-19.16.02:364][152]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.01.11-19.16.02:364][152]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.01.11-19.16.02:364][152]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.01.11-19.16.02:368][152]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.01.11-19.16.02:368][152]PIE: Server logged in
+[2026.01.11-19.16.02:369][152]PIE: Play in editor total start time 0,147 seconds.
+[2026.01.11-19.20.01:067][801]LogSlate: Window 'Monster_Shooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2026.01.11-19.20.01:095][801]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2026.01.11-19.20.01:101][801]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.01:104][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.20.01:125][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.11-19.20.01:222][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.20.01:276][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.11-19.20.01:276][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.01.11-19.20.01:277][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.01.11-19.20.01:294][801]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2026.01.11-19.20.01:407][802]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.01.11-19.20.03:475][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2026.01.11-19.20.04:892][866]LogSlate: Window 'Save Content' being destroyed
+[2026.01.11-19.20.04:977][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/body_M" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/body_M.uasset" SILENT=true
+[2026.01.11-19.20.04:990][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/body_M7AA691694258539D47760E8F0088B02C.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/body_M.uasset'
+[2026.01.11-19.20.05:012][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/body_M1" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/body_M1.uasset" SILENT=true
+[2026.01.11-19.20.05:020][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/body_M19597D7F64B0E50DA6009D5B89FEA184E.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/body_M1.uasset'
+[2026.01.11-19.20.05:022][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/copzombie_l_actisdato" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato.uasset" SILENT=true
+[2026.01.11-19.20.05:062][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato9100677C4BC7BB77949FA2B30AB6F6EE.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato.uasset'
+[2026.01.11-19.20.05:121][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_Anim_mixam13201BD54BD64DC469872D875CD282F7.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato_Anim_mixamo_com.uasset'
+[2026.01.11-19.20.05:155][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_Anim_Take_E1FA95F64F58A0C91CD857A5C46F8415.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato_Anim_Take_001.uasset'
+[2026.01.11-19.20.05:164][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_PhysicsAssBCB978004D084B09CB941FA52BE0C2FB.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato_PhysicsAsset.uasset'
+[2026.01.11-19.20.05:165][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/copzombie_l_actisdato_Skeleton" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato_Skeleton.uasset" SILENT=true
+[2026.01.11-19.20.05:167][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/copzombie_l_actisdato_Skeleton54406E5C48B6F9324AF83D9DF5601AB9.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/copzombie_l_actisdato_Skeleton.uasset'
+[2026.01.11-19.20.05:203][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.01.11-19.20.05:228][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/FirstPersonExampleMapC247A97949B79F2EDCE7718B4704A3A1.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2026.01.11-19.20.05:256][866]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.086
+[2026.01.11-19.20.05:262][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/FuzZombie_body_diffuse" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_body_diffuse.uasset" SILENT=true
+[2026.01.11-19.20.05:614][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/FuzZombie_body_diffuse39D488D34802B083DD1A15A31182CA48.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_body_diffuse.uasset'
+[2026.01.11-19.20.05:620][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/FuzZombie_diffuse" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_diffuse.uasset" SILENT=true
+[2026.01.11-19.20.05:970][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/FuzZombie_diffuse989F298B43E8530881A38B9F14D0B088.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_diffuse.uasset'
+[2026.01.11-19.20.05:978][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/FuzZombie_diffuse_ncl1_1" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_diffuse_ncl1_1.uasset" SILENT=true
+[2026.01.11-19.20.06:332][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/FuzZombie_diffuse_ncl1_1139F8A334D737183EFB3E49EBC532C08.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_diffuse_ncl1_1.uasset'
+[2026.01.11-19.20.06:339][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/FuzZombie_normal" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_normal.uasset" SILENT=true
+[2026.01.11-19.20.06:695][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/FuzZombie_normal6083B1024DE63057E501A8BD61E8E033.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_normal.uasset'
+[2026.01.11-19.20.06:701][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/FuzZombie_specular" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_specular.uasset" SILENT=true
+[2026.01.11-19.20.06:923][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/FuzZombie_specularF25115D14166A27A76413D929DA40B6E.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/FuzZombie_specular.uasset'
+[2026.01.11-19.20.06:954][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/glass_hair_M" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/glass_hair_M.uasset" SILENT=true
+[2026.01.11-19.20.06:960][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/glass_hair_MEF15302F4A637B1E6AF8DAA9770CFE85.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/glass_hair_M.uasset'
+[2026.01.11-19.20.06:992][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/glass_hair_M_ncl1_1" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/glass_hair_M_ncl1_1.uasset" SILENT=true
+[2026.01.11-19.20.06:998][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/glass_hair_M_ncl1_1F814A7F1419513156171D1BA6FD51A5F.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/glass_hair_M_ncl1_1.uasset'
+[2026.01.11-19.20.07:031][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Walking" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/Walking.uasset" SILENT=true
+[2026.01.11-19.20.07:037][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/Walking640FCAF54D8A81EBFBCDD4B91DCB253D.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/Walking.uasset'
+[2026.01.11-19.20.07:077][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/Zombie_Attack" FILE="C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/Zombie_Attack.uasset" SILENT=true
+[2026.01.11-19.20.07:090][866]LogSavePackage: Moving 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Saved/Zombie_AttackF6B132A34C1935CE52C4A3A117D06202.tmp' to 'C:/Unreal Project/Unreal-Engine-Practice/Monster_Shooter/Content/Mesh/Zombie_Attack.uasset'
+[2026.01.11-19.20.07:135][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.11-19.20.07:135][866]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.07:136][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-19.20.07:243][866]LogSlate: Window 'Monster_Shooter - Unreal Editor' being destroyed
+[2026.01.11-19.20.07:582][866]AssetCheck: New page: Asset Save: multiple assets
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating SkeletalMesh /Game/Mesh/copzombie_l_actisdato.copzombie_l_actisdato
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Material /Game/Mesh/glass_hair_M.glass_hair_M
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Texture2D /Game/Mesh/FuzZombie_diffuse.FuzZombie_diffuse
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Texture2D /Game/Mesh/FuzZombie_specular.FuzZombie_specular
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Texture2D /Game/Mesh/FuzZombie_normal.FuzZombie_normal
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Material /Game/Mesh/glass_hair_M_ncl1_1.glass_hair_M_ncl1_1
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Material /Game/Mesh/body_M.body_M
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Texture2D /Game/Mesh/FuzZombie_body_diffuse.FuzZombie_body_diffuse
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Material /Game/Mesh/body_M1.body_M1
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Texture2D /Game/Mesh/FuzZombie_diffuse_ncl1_1.FuzZombie_diffuse_ncl1_1
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating Skeleton /Game/Mesh/copzombie_l_actisdato_Skeleton.copzombie_l_actisdato_Skeleton
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating PhysicsAsset /Game/Mesh/copzombie_l_actisdato_PhysicsAsset.copzombie_l_actisdato_PhysicsAsset
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating AnimSequence /Game/Mesh/copzombie_l_actisdato_Anim_Take_001.copzombie_l_actisdato_Anim_Take_001
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating AnimSequence /Game/Mesh/copzombie_l_actisdato_Anim_mixamo_com.copzombie_l_actisdato_Anim_mixamo_com
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating AnimSequence /Game/Mesh/Walking.Walking
+[2026.01.11-19.20.07:583][866]LogContentValidation: Display: Validating AnimSequence /Game/Mesh/Zombie_Attack.Zombie_Attack
+[2026.01.11-19.20.07:585][867]Cmd: QUIT_EDITOR
+[2026.01.11-19.20.07:585][867]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.11-19.20.07:593][867]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.11-19.20.08:552][867]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.11-19.20.08:552][867]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.11-19.20.08:552][867]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2026.01.11-19.20.08:552][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.01.11-19.20.08:555][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.01.11-19.20.08:588][867]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.11-19.20.08:589][867]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.01.11-19.20.08:605][867]LogExit: Preparing to exit.
+[2026.01.11-19.20.09:401][867]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2026.01.11-19.20.09:851][867]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:855][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:859][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:864][867]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:867][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:872][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:872][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:872][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:872][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:872][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:872][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:873][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:873][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:876][867]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:880][867]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:883][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:883][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:883][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:883][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:883][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:884][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:884][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:884][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:888][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:891][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2026.01.11-19.20.09:892][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:896][867]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:901][867]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:904][867]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.09:907][867]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.10:087][867]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2026.01.11-19.20.10:143][867]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-19.20.10:145][867]LogExit: Editor shut down
+[2026.01.11-19.20.10:150][867]LogExit: Transaction tracking system shut down
+[2026.01.11-19.20.10:948][867]LogExit: Object subsystem successfully closed.
+[2026.01.11-19.20.10:996][867]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.11-19.20.10:996][867]LogShaderCompilers: Display: Total job queries 366, among them cache hits 14 (3.83%)
+[2026.01.11-19.20.10:996][867]LogShaderCompilers: Display: Tracking 289 distinct input hashes that result in 87 distinct outputs (30.10%)
+[2026.01.11-19.20.10:996][867]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2026.01.11-19.20.10:996][867]LogShaderCompilers: Display: ================================================
+[2026.01.11-19.20.11:046][867]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.11-19.20.11:214][867]LogModuleManager: Shutting down and abandoning module AnimationEditor (897)
+[2026.01.11-19.20.11:214][867]LogModuleManager: Shutting down and abandoning module Monster_Shooter (895)
+[2026.01.11-19.20.11:214][867]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (890)
+[2026.01.11-19.20.11:214][867]LogModuleManager: Shutting down and abandoning module Voice (888)
+[2026.01.11-19.20.11:215][867]LogModuleManager: Shutting down and abandoning module PinnedCommandList (885)
+[2026.01.11-19.20.11:215][867]LogModuleManager: Shutting down and abandoning module SkeletonEditor (883)
+[2026.01.11-19.20.11:215][867]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (881)
+[2026.01.11-19.20.11:216][867]LogModuleManager: Shutting down and abandoning module BlueprintGraph (879)
+[2026.01.11-19.20.11:216][867]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (874)
+[2026.01.11-19.20.11:217][867]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (872)
+[2026.01.11-19.20.11:217][867]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2026.01.11-19.20.11:217][867]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2026.01.11-19.20.11:228][867]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2026.01.11-19.20.11:228][867]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2026.01.11-19.20.11:228][867]LogModuleManager: Shutting down and abandoning module StatsViewer (862)
+[2026.01.11-19.20.11:229][867]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2026.01.11-19.20.11:230][867]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (858)
+[2026.01.11-19.20.11:232][867]LogModuleManager: Shutting down and abandoning module AutomationWorker (856)
+[2026.01.11-19.20.11:232][867]LogModuleManager: Shutting down and abandoning module SteamVREditor (854)
+[2026.01.11-19.20.11:233][867]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2026.01.11-19.20.11:233][867]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (850)
+[2026.01.11-19.20.11:236][867]LogModuleManager: Shutting down and abandoning module TakeRecorder (849)
+[2026.01.11-19.20.11:237][867]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (846)
+[2026.01.11-19.20.11:238][867]LogModuleManager: Shutting down and abandoning module TakesCore (844)
+[2026.01.11-19.20.11:239][867]LogModuleManager: Shutting down and abandoning module OpenXRInput (842)
+[2026.01.11-19.20.11:239][867]LogModuleManager: Shutting down and abandoning module GooglePADEditor (840)
+[2026.01.11-19.20.11:239][867]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (838)
+[2026.01.11-19.20.11:239][867]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (836)
+[2026.01.11-19.20.11:241][867]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (834)
+[2026.01.11-19.20.11:243][867]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2026.01.11-19.20.11:245][867]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2026.01.11-19.20.11:246][867]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (828)
+[2026.01.11-19.20.11:246][867]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (826)
+[2026.01.11-19.20.11:246][867]LogModuleManager: Shutting down and abandoning module WebMMedia (824)
+[2026.01.11-19.20.11:247][867]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (822)
+[2026.01.11-19.20.11:248][867]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (820)
+[2026.01.11-19.20.11:248][867]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (818)
+[2026.01.11-19.20.11:250][867]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (816)
+[2026.01.11-19.20.11:252][867]LogModuleManager: Shutting down and abandoning module SequenceRecorder (815)
+[2026.01.11-19.20.11:252][867]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (802)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (800)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (798)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (796)
+[2026.01.11-19.20.11:253][867]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (794)
+[2026.01.11-19.20.11:254][867]LogModuleManager: Shutting down and abandoning module PlanarCut (792)
+[2026.01.11-19.20.11:254][867]LogModuleManager: Shutting down and abandoning module CharacterAI (790)
+[2026.01.11-19.20.11:254][867]LogModuleManager: Shutting down and abandoning module TextureAlignMode (788)
+[2026.01.11-19.20.11:255][867]LogModuleManager: Shutting down and abandoning module BspMode (786)
+[2026.01.11-19.20.11:255][867]LogModuleManager: Shutting down and abandoning module GeometryMode (784)
+[2026.01.11-19.20.11:256][867]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (782)
+[2026.01.11-19.20.11:257][867]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2026.01.11-19.20.11:257][867]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2026.01.11-19.20.11:260][867]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2026.01.11-19.20.11:261][867]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2026.01.11-19.20.11:262][867]LogModuleManager: Shutting down and abandoning module FoliageEdit (772)
+[2026.01.11-19.20.11:263][867]LogModuleManager: Shutting down and abandoning module LandscapeEditor (770)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module MeshPaintMode (768)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module PlacementMode (762)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module ViewportSnapping (760)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2026.01.11-19.20.11:268][867]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2026.01.11-19.20.11:270][867]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2026.01.11-19.20.11:270][867]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2026.01.11-19.20.11:271][867]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2026.01.11-19.20.11:272][867]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (749)
+[2026.01.11-19.20.11:272][867]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (746)
+[2026.01.11-19.20.11:272][867]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (744)
+[2026.01.11-19.20.11:272][867]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (742)
+[2026.01.11-19.20.11:273][867]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (741)
+[2026.01.11-19.20.13:111][867]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (738)
+[2026.01.11-19.20.13:111][867]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (736)
+[2026.01.11-19.20.13:111][867]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (734)
+[2026.01.11-19.20.13:111][867]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (732)
+[2026.01.11-19.20.13:111][867]LogModuleManager: Shutting down and abandoning module TraceInsights (730)
+[2026.01.11-19.20.13:117][867]MemoryProfiler: Shutdown
+[2026.01.11-19.20.13:117][867]NetworkingProfiler: Shutdown
+[2026.01.11-19.20.13:117][867]LoadingProfiler: Shutdown
+[2026.01.11-19.20.13:119][867]TimingProfiler: Shutdown
+[2026.01.11-19.20.13:123][867]LogModuleManager: Shutting down and abandoning module TraceServices (729)
+[2026.01.11-19.20.13:125][867]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (726)
+[2026.01.11-19.20.13:125][867]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (724)
+[2026.01.11-19.20.13:125][867]LogModuleManager: Shutting down and abandoning module InputBindingEditor (722)
+[2026.01.11-19.20.13:125][867]LogModuleManager: Shutting down and abandoning module MergeActors (720)
+[2026.01.11-19.20.13:126][867]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (718)
+[2026.01.11-19.20.13:127][867]LogModuleManager: Shutting down and abandoning module LocalizationService (717)
+[2026.01.11-19.20.13:127][867]LogModuleManager: Shutting down and abandoning module HardwareTargeting (714)
+[2026.01.11-19.20.13:127][867]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (712)
+[2026.01.11-19.20.13:127][867]LogModuleManager: Shutting down and abandoning module UndoHistory (710)
+[2026.01.11-19.20.13:129][867]LogModuleManager: Shutting down and abandoning module XmlParser (708)
+[2026.01.11-19.20.13:129][867]LogModuleManager: Shutting down and abandoning module Blutility (706)
+[2026.01.11-19.20.13:130][867]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (704)
+[2026.01.11-19.20.13:130][867]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (703)
+[2026.01.11-19.20.13:131][867]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (700)
+[2026.01.11-19.20.13:131][867]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (699)
+[2026.01.11-19.20.13:131][867]LogModuleManager: Shutting down and abandoning module SettingsEditor (696)
+[2026.01.11-19.20.13:131][867]LogModuleManager: Shutting down and abandoning module ProjectLauncher (694)
+[2026.01.11-19.20.13:132][867]LogModuleManager: Shutting down and abandoning module SessionFrontend (692)
+[2026.01.11-19.20.13:132][867]LogModuleManager: Shutting down and abandoning module ProfilerClient (690)
+[2026.01.11-19.20.13:133][867]LogModuleManager: Shutting down and abandoning module DeviceManager (688)
+[2026.01.11-19.20.13:134][867]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (687)
+[2026.01.11-19.20.13:168][867]LogModuleManager: Shutting down and abandoning module AutomationController (684)
+[2026.01.11-19.20.13:169][867]LogModuleManager: Shutting down and abandoning module AutomationWindow (682)
+[2026.01.11-19.20.13:171][867]LogModuleManager: Shutting down and abandoning module Layers (680)
+[2026.01.11-19.20.13:175][867]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (678)
+[2026.01.11-19.20.13:175][867]LogModuleManager: Shutting down and abandoning module DetailCustomizations (676)
+[2026.01.11-19.20.13:175][867]LogModuleManager: Shutting down and abandoning module PackagesDialog (674)
+[2026.01.11-19.20.13:176][867]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (672)
+[2026.01.11-19.20.13:176][867]LogModuleManager: Shutting down and abandoning module Persona (670)
+[2026.01.11-19.20.13:176][867]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (669)
+[2026.01.11-19.20.13:176][867]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2026.01.11-19.20.13:217][867]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2026.01.11-19.20.13:217][867]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2026.01.11-19.20.13:218][867]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2026.01.11-19.20.13:218][867]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2026.01.11-19.20.13:223][867]LogModuleManager: Shutting down and abandoning module Toolbox (656)
+[2026.01.11-19.20.13:223][867]LogModuleManager: Shutting down and abandoning module ModuleUI (654)
+[2026.01.11-19.20.13:224][867]LogModuleManager: Shutting down and abandoning module OutputLog (652)
+[2026.01.11-19.20.13:229][867]LogModuleManager: Shutting down and abandoning module GammaUI (650)
+[2026.01.11-19.20.13:230][867]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2026.01.11-19.20.13:230][867]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2026.01.11-19.20.13:232][867]LogModuleManager: Shutting down and abandoning module LevelSequence (644)
+[2026.01.11-19.20.13:232][867]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (642)
+[2026.01.11-19.20.13:232][867]LogModuleManager: Shutting down and abandoning module MovieScene (640)
+[2026.01.11-19.20.13:235][867]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (638)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module LauncherPlatform (636)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module AnalyticsET (634)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module PortalServices (632)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module PortalRpc (630)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module MessagingRpc (628)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (626)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module AudioMixerCore (625)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2026.01.11-19.20.13:237][867]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2026.01.11-19.20.13:238][867]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2026.01.11-19.20.13:238][867]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (614)
+[2026.01.11-19.20.13:238][867]LogModuleManager: Shutting down and abandoning module ProfilerService (612)
+[2026.01.11-19.20.13:265][867]LogModuleManager: Shutting down and abandoning module TaskGraph (610)
+[2026.01.11-19.20.13:267][867]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (608)
+[2026.01.11-19.20.13:267][867]LogModuleManager: Shutting down and abandoning module OculusEditor (606)
+[2026.01.11-19.20.13:273][867]LogModuleManager: Shutting down and abandoning module OculusInput (604)
+[2026.01.11-19.20.13:273][867]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2026.01.11-19.20.13:273][867]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2026.01.11-19.20.13:273][867]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2026.01.11-19.20.13:273][867]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2026.01.11-19.20.13:274][867]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (594)
+[2026.01.11-19.20.13:276][867]LogModuleManager: Shutting down and abandoning module TakeSequencer (592)
+[2026.01.11-19.20.13:276][867]LogModuleManager: Shutting down and abandoning module TakeMovieScene (590)
+[2026.01.11-19.20.13:276][867]LogModuleManager: Shutting down and abandoning module ScreenshotTools (588)
+[2026.01.11-19.20.13:276][867]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2026.01.11-19.20.13:276][867]LogModuleManager: Shutting down and abandoning module Synthesis (584)
+[2026.01.11-19.20.13:278][867]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (582)
+[2026.01.11-19.20.13:278][867]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (580)
+[2026.01.11-19.20.13:278][867]LogModuleManager: Shutting down and abandoning module OpenXREditor (578)
+[2026.01.11-19.20.13:278][867]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (576)
+[2026.01.11-19.20.13:280][867]LogModuleManager: Shutting down and abandoning module GooglePAD (574)
+[2026.01.11-19.20.13:280][867]LogModuleManager: Shutting down and abandoning module EditableMesh (572)
+[2026.01.11-19.20.13:281][867]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (570)
+[2026.01.11-19.20.13:281][867]LogModuleManager: Shutting down and abandoning module CableComponent (568)
+[2026.01.11-19.20.13:281][867]LogModuleManager: Shutting down and abandoning module AudioCapture (566)
+[2026.01.11-19.20.13:281][867]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (565)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module AssetTags (562)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (560)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (558)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module AppleImageUtils (556)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module AndroidPermission (554)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (552)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (550)
+[2026.01.11-19.20.13:282][867]LogModuleManager: Shutting down and abandoning module TemplateSequence (548)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module MediaCompositing (546)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module ImgMedia (544)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (542)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (540)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (538)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (536)
+[2026.01.11-19.20.13:283][867]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (534)
+[2026.01.11-19.20.13:285][867]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (532)
+[2026.01.11-19.20.13:285][867]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (530)
+[2026.01.11-19.20.13:287][867]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (528)
+[2026.01.11-19.20.13:292][867]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (526)
+[2026.01.11-19.20.13:292][867]LogModuleManager: Shutting down and abandoning module MotoSynth (524)
+[2026.01.11-19.20.13:292][867]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (522)
+[2026.01.11-19.20.13:293][867]LogOpenImageDenoise: OIDN shutting down
+[2026.01.11-19.20.13:293][867]LogModuleManager: Shutting down and abandoning module MeshConversion (520)
+[2026.01.11-19.20.13:294][867]LogModuleManager: Shutting down and abandoning module DynamicMesh (518)
+[2026.01.11-19.20.13:295][867]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (516)
+[2026.01.11-19.20.13:296][867]LogModuleManager: Shutting down and abandoning module GeometricObjects (514)
+[2026.01.11-19.20.13:296][867]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (512)
+[2026.01.11-19.20.13:298][867]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (511)
+[2026.01.11-19.20.13:298][867]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (508)
+[2026.01.11-19.20.13:298][867]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (506)
+[2026.01.11-19.20.13:298][867]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (504)
+[2026.01.11-19.20.13:299][867]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (502)
+[2026.01.11-19.20.13:299][867]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (500)
+[2026.01.11-19.20.13:299][867]LogModuleManager: Shutting down and abandoning module ChaosNiagara (498)
+[2026.01.11-19.20.13:300][867]LogModuleManager: Shutting down and abandoning module FractureEditor (496)
+[2026.01.11-19.20.13:301][867]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (495)
+[2026.01.11-19.20.13:301][867]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (492)
+[2026.01.11-19.20.13:303][867]LogModuleManager: Shutting down and abandoning module BackChannel (490)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (488)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module AutomationUtils (486)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (476)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (474)
+[2026.01.11-19.20.13:304][867]LogModuleManager: Shutting down and abandoning module UObjectPlugin (472)
+[2026.01.11-19.20.13:305][867]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (470)
+[2026.01.11-19.20.13:305][867]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (468)
+[2026.01.11-19.20.13:307][867]LogModuleManager: Shutting down and abandoning module PluginUtils (466)
+[2026.01.11-19.20.13:308][867]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (464)
+[2026.01.11-19.20.13:310][867]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (462)
+[2026.01.11-19.20.13:313][867]LogModuleManager: Shutting down and abandoning module GitSourceControl (460)
+[2026.01.11-19.20.13:315][867]LogModuleManager: Shutting down and abandoning module SourceControl (459)
+[2026.01.11-19.20.13:316][867]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (456)
+[2026.01.11-19.20.13:316][867]LogModuleManager: Shutting down and abandoning module PluginBrowser (454)
+[2026.01.11-19.20.13:320][867]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (452)
+[2026.01.11-19.20.13:321][867]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (450)
+[2026.01.11-19.20.13:321][867]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (448)
+[2026.01.11-19.20.13:321][867]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (446)
+[2026.01.11-19.20.13:323][867]LogModuleManager: Shutting down and abandoning module CurveEditorTools (444)
+[2026.01.11-19.20.13:325][867]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (442)
+[2026.01.11-19.20.13:325][867]LogModuleManager: Shutting down and abandoning module CryptoKeys (440)
+[2026.01.11-19.20.13:325][867]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (438)
+[2026.01.11-19.20.13:325][867]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (436)
+[2026.01.11-19.20.13:325][867]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (434)
+[2026.01.11-19.20.13:325][867]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (432)
+[2026.01.11-19.20.13:326][867]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (430)
+[2026.01.11-19.20.13:326][867]LogModuleManager: Shutting down and abandoning module LiveLink (428)
+[2026.01.11-19.20.14:002][867]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (426)
+[2026.01.11-19.20.14:002][867]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2026.01.11-19.20.14:002][867]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2026.01.11-19.20.14:002][867]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2026.01.11-19.20.14:004][867]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2026.01.11-19.20.14:005][867]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2026.01.11-19.20.14:005][867]LogModuleManager: Shutting down and abandoning module AnimGraph (413)
+[2026.01.11-19.20.14:005][867]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2026.01.11-19.20.14:006][867]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2026.01.11-19.20.14:108][867]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2026.01.11-19.20.14:209][867]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (386)
+[2026.01.11-19.20.14:209][867]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (384)
+[2026.01.11-19.20.14:209][867]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (382)
+[2026.01.11-19.20.14:209][867]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (380)
+[2026.01.11-19.20.14:209][867]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (378)
+[2026.01.11-19.20.14:209][867]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (376)
+[2026.01.11-19.20.14:210][867]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (374)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (372)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (370)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (368)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapController (366)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (364)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module MagicLeapAR (362)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (360)
+[2026.01.11-19.20.14:210][867]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2026.01.11-19.20.14:211][867]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2026.01.11-19.20.14:211][867]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2026.01.11-19.20.14:212][867]LogModuleManager: Shutting down and abandoning module NiagaraCore (352)
+[2026.01.11-19.20.14:212][867]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (350)
+[2026.01.11-19.20.14:212][867]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (348)
+[2026.01.11-19.20.14:212][867]LogModuleManager: Shutting down and abandoning module AnimationSharing (346)
+[2026.01.11-19.20.14:212][867]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (344)
+[2026.01.11-19.20.14:212][867]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2026.01.11-19.20.14:214][867]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2026.01.11-19.20.14:214][867]LogModuleManager: Shutting down and abandoning module DataValidation (338)
+[2026.01.11-19.20.14:214][867]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (336)
+[2026.01.11-19.20.14:214][867]LogModuleManager: Shutting down and abandoning module LevelEditor (335)
+[2026.01.11-19.20.14:218][867]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (334)
+[2026.01.11-19.20.14:218][867]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (332)
+[2026.01.11-19.20.14:218][867]LogModuleManager: Shutting down and abandoning module MainFrame (330)
+[2026.01.11-19.20.14:218][867]LogModuleManager: Shutting down and abandoning module HotReload (329)
+[2026.01.11-19.20.14:219][867]LogModuleManager: Shutting down and abandoning module ToolMenus (325)
+[2026.01.11-19.20.14:219][867]LogModuleManager: Shutting down and abandoning module ContentBrowser (323)
+[2026.01.11-19.20.14:219][867]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2026.01.11-19.20.14:219][867]LogModuleManager: Shutting down and abandoning module TreeMap (319)
+[2026.01.11-19.20.14:219][867]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2026.01.11-19.20.14:220][867]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2026.01.11-19.20.14:220][867]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2026.01.11-19.20.14:220][867]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2026.01.11-19.20.14:222][867]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2026.01.11-19.20.14:233][867]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2026.01.11-19.20.14:233][867]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2026.01.11-19.20.14:233][867]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2026.01.11-19.20.14:233][867]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2026.01.11-19.20.14:233][867]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2026.01.11-19.20.14:234][867]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2026.01.11-19.20.14:234][867]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2026.01.11-19.20.14:234][867]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2026.01.11-19.20.14:234][867]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2026.01.11-19.20.14:235][867]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2026.01.11-19.20.14:235][867]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2026.01.11-19.20.14:237][867]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2026.01.11-19.20.14:238][867]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2026.01.11-19.20.14:238][867]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2026.01.11-19.20.14:239][867]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2026.01.11-19.20.14:239][867]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2026.01.11-19.20.14:239][867]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2026.01.11-19.20.14:241][867]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2026.01.11-19.20.14:241][867]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2026.01.11-19.20.14:243][867]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2026.01.11-19.20.14:244][867]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2026.01.11-19.20.14:247][867]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2026.01.11-19.20.14:247][867]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2026.01.11-19.20.14:247][867]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2026.01.11-19.20.14:247][867]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2026.01.11-19.20.14:247][867]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2026.01.11-19.20.14:247][867]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2026.01.11-19.20.14:248][867]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2026.01.11-19.20.14:248][867]LogModuleManager: Shutting down and abandoning module Core (248)
+[2026.01.11-19.20.14:248][867]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2026.01.11-19.20.14:249][867]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2026.01.11-19.20.14:249][867]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2026.01.11-19.20.14:251][867]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2026.01.11-19.20.14:253][867]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2026.01.11-19.20.14:256][867]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2026.01.11-19.20.14:256][867]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2026.01.11-19.20.14:256][867]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2026.01.11-19.20.14:256][867]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2026.01.11-19.20.14:256][867]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2026.01.11-19.20.14:256][867]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2026.01.11-19.20.14:257][867]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2026.01.11-19.20.14:257][867]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2026.01.11-19.20.14:258][867]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2026.01.11-19.20.14:258][867]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2026.01.11-19.20.14:259][867]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2026.01.11-19.20.14:259][867]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2026.01.11-19.20.14:259][867]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2026.01.11-19.20.14:261][867]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2026.01.11-19.20.14:261][867]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2026.01.11-19.20.14:262][867]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2026.01.11-19.20.14:262][867]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2026.01.11-19.20.14:262][867]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2026.01.11-19.20.14:263][867]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2026.01.11-19.20.14:263][867]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2026.01.11-19.20.14:263][867]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2026.01.11-19.20.14:263][867]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2026.01.11-19.20.14:263][867]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2026.01.11-19.20.14:263][867]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2026.01.11-19.20.14:264][867]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2026.01.11-19.20.14:269][867]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2026.01.11-19.20.14:269][867]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2026.01.11-19.20.14:269][867]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2026.01.11-19.20.14:269][867]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2026.01.11-19.20.14:269][867]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2026.01.11-19.20.14:277][867]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2026.01.11-19.20.14:281][867]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2026.01.11-19.20.14:298][867]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2026.01.11-19.20.14:298][867]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2026.01.11-19.20.14:298][867]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2026.01.11-19.20.14:298][867]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2026.01.11-19.20.14:298][867]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2026.01.11-19.20.14:299][867]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2026.01.11-19.20.14:299][867]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2026.01.11-19.20.14:299][867]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2026.01.11-19.20.14:299][867]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2026.01.11-19.20.14:300][867]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2026.01.11-19.20.14:300][867]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2026.01.11-19.20.14:300][867]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2026.01.11-19.20.14:300][867]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2026.01.11-19.20.14:300][867]LogHMD: Freeing OpenVRDLLHandle.
+[2026.01.11-19.20.14:300][867]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2026.01.11-19.20.14:301][867]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2026.01.11-19.20.14:301][867]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.11-19.20.14:301][867]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2026.01.11-19.20.14:301][867]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2026.01.11-19.20.14:301][867]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2026.01.11-19.20.14:301][867]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2026.01.11-19.20.14:302][867]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2026.01.11-19.20.14:302][867]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2026.01.11-19.20.14:302][867]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2026.01.11-19.20.14:302][867]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2026.01.11-19.20.14:302][867]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2026.01.11-19.20.14:305][867]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2026.01.11-19.20.14:306][867]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2026.01.11-19.20.14:325][867]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2026.01.11-19.20.14:325][867]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2026.01.11-19.20.14:325][867]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD680E6AA-413F-A67B-8BEC-FF8152FAB7EC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=5bb4a20345fe5aead4236fbfc70914a1%7Cb823d824c898447d83c6efa493d68e96%7Cf593a1de-d603-4efa-8741-d70128d3b940&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2026.01.11-19.20.14:325][867]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2026.01.11-19.20.14:360][867]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2026.01.11-19.20.14:363][867]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2026.01.11-19.20.14:366][867]LogModuleManager: Shutting down and abandoning module Media (73)
+[2026.01.11-19.20.14:367][867]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2026.01.11-19.20.14:367][867]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2026.01.11-19.20.14:367][867]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2026.01.11-19.20.14:367][867]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2026.01.11-19.20.14:367][867]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2026.01.11-19.20.14:367][867]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2026.01.11-19.20.14:368][867]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2026.01.11-19.20.14:368][867]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2026.01.11-19.20.14:368][867]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2026.01.11-19.20.14:368][867]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2026.01.11-19.20.14:368][867]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2026.01.11-19.20.14:369][867]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2026.01.11-19.20.14:370][867]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2026.01.11-19.20.14:370][867]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2026.01.11-19.20.14:371][867]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2026.01.11-19.20.14:372][867]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2026.01.11-19.20.14:372][867]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2026.01.11-19.20.14:372][867]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2026.01.11-19.20.14:372][867]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2026.01.11-19.20.14:374][867]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2026.01.11-19.20.14:375][867]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2026.01.11-19.20.14:375][867]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2026.01.11-19.20.14:375][867]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2026.01.11-19.20.14:375][867]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2026.01.11-19.20.14:376][867]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2026.01.11-19.20.14:376][867]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2026.01.11-19.20.14:376][867]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2026.01.11-19.20.14:376][867]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2026.01.11-19.20.14:376][867]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2026.01.11-19.20.14:377][867]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2026.01.11-19.20.14:409][867]LogD3D11RHI: Shutdown
+[2026.01.11-19.20.14:409][867]LogD3D11RHI: CleanupD3DDevice
+[2026.01.11-19.20.14:424][867]LogExit: Exiting.
+[2026.01.11-19.20.14:454][867]Log file closed, 01/11/26 22:20:14

@@ -3,11 +3,17 @@
 
 #include "MonsterShooterEnemy.h"
 
+#include "Components/BoxComponent.h"
+#include "MonsterShooterCharacter.h"
+
 // Sets default values
 AMonsterShooterEnemy::AMonsterShooterEnemy()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
+	DamageCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Damage Collision"));
+	DamageCollision->SetupAttachment(RootComponent);
 
 }
 
@@ -16,6 +22,9 @@ void AMonsterShooterEnemy::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	DamageCollision->OnComponentBeginOverlap.AddDynamic(this, &AMonsterShooterEnemy::OnHit);
+
+
 }
 
 // Called every frame
@@ -30,5 +39,9 @@ void AMonsterShooterEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+}
+
+void AMonsterShooterEnemy::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& Hit)
+{
 }
 

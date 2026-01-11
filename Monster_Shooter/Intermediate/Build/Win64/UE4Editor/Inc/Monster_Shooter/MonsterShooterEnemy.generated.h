@@ -8,14 +8,25 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UPrimitiveComponent;
+class AActor;
+struct FHitResult;
 #ifdef MONSTER_SHOOTER_MonsterShooterEnemy_generated_h
 #error "MonsterShooterEnemy.generated.h already included, missing '#pragma once' in MonsterShooterEnemy.h"
 #endif
 #define MONSTER_SHOOTER_MonsterShooterEnemy_generated_h
 
 #define Monster_Shooter_Source_Monster_Shooter_Public_MonsterShooterEnemy_h_12_SPARSE_DATA
-#define Monster_Shooter_Source_Monster_Shooter_Public_MonsterShooterEnemy_h_12_RPC_WRAPPERS
-#define Monster_Shooter_Source_Monster_Shooter_Public_MonsterShooterEnemy_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define Monster_Shooter_Source_Monster_Shooter_Public_MonsterShooterEnemy_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnHit);
+
+
+#define Monster_Shooter_Source_Monster_Shooter_Public_MonsterShooterEnemy_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnHit);
+
+
 #define Monster_Shooter_Source_Monster_Shooter_Public_MonsterShooterEnemy_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMonsterShooterEnemy(); \

@@ -1,12 +1,19 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Unreal Project\Unreal-Engine-Practice).
+  Creating makefile for Monster_ShooterEditor (command line arguments changed)
+  Parsing headers for Monster_ShooterEditor
+    Running UnrealHeaderTool "C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Monster_Shooter.uproject" "C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Monster_ShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\artem\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for Monster_ShooterEditor in 6,0098995 seconds
   Building Monster_ShooterEditor...
   Using Visual Studio 2019 14.29.30159 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 8 processes...
-    [1/4] MonsterShooterCharacter.cpp
-    [2/4] UE4Editor-Monster_Shooter-0008.lib
-       Creating library C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0008.lib and object C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0008.exp
-    [3/4] UE4Editor-Monster_Shooter-0008.dll
-       Creating library C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0008.suppressed.lib and object C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0008.suppressed.exp
-    [4/4] Monster_ShooterEditor.target
-  Total time in Parallel executor: 2,89 seconds
-  Total execution time: 3,96 seconds
+  Building 6 actions with 8 processes...
+    [1/6] Monster_Shooter.init.gen.cpp
+    [2/6] MonsterShooterEnemy.gen.cpp
+    [3/6] MonsterShooterEnemy.cpp
+    [4/6] UE4Editor-Monster_Shooter-0010.lib
+       Creating library C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0010.lib and object C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0010.exp
+    [5/6] UE4Editor-Monster_Shooter-0010.dll
+       Creating library C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0010.suppressed.lib and object C:\Unreal Project\Unreal-Engine-Practice\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-0010.suppressed.exp
+    [6/6] Monster_ShooterEditor.target
+  Total time in Parallel executor: 2,37 seconds
+  Total execution time: 11,23 seconds
