@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Monster_Shooter",
+			"Path": "C:\\Unreal Project\\Monster_Shooter\\Source\\Monster_Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Monster_ShooterEditor",
+			"Path": "C:\\Unreal Project\\Monster_Shooter\\Source\\Monster_ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

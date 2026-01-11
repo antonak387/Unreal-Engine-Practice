@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Monster_Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooterCharacter.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_Shooter.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterCharacter.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterGameMode.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterHUD.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterProjectile.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooterCharacter.gen.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_Shooter.init.gen.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterCharacter.gen.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterGameMode.gen.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterHUD.gen.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterProjectile.gen.cpp.obj"
+"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Default.rc2.res"
+/OUT:"C:\Unreal Project\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter.lib"

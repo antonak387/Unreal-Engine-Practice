@@ -1,0 +1,1221 @@
+﻿Log file open, 01/11/26 11:49:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Monster_Shooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.399502
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2026.01.11-08.49.34:442][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2026.01.11-08.49.34:443][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:443][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2026.01.11-08.49.34:458][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.01.11-08.49.34:459][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.01.11-08.49.34:460][  0]LogInit: Selected Device Profile: [Windows]
+[2026.01.11-08.49.34:460][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2026.01.11-08.49.34:460][  0]LogHAL: Display: Platform has ~ 16 GB [17058336768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.01.11-08.49.34:460][  0]LogInit: Going up to parent DeviceProfile []
+[2026.01.11-08.49.34:460][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2026.01.11-08.49.34:460][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.01.11-08.49.34:461][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2026.01.11-08.49.34:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2026.01.11-08.49.34:462][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Project/Monster_Shooter/Saved/Config/Windows/Editor.ini]
+[2026.01.11-08.49.34:462][  0]LogInit: Computer: MILAPTOP
+[2026.01.11-08.49.34:463][  0]LogInit: User: artem
+[2026.01.11-08.49.34:463][  0]LogInit: CPU Page size=4096, Cores=4
+[2026.01.11-08.49.34:463][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.01.11-08.49.34:463][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2026.01.11-08.49.34:463][  0]LogMemory: Platform Memory Stats for Windows
+[2026.01.11-08.49.34:463][  0]LogMemory: Process Physical Memory: 146.76 MB used, 146.76 MB peak
+[2026.01.11-08.49.34:463][  0]LogMemory: Process Virtual Memory: 124.79 MB used, 124.79 MB peak
+[2026.01.11-08.49.34:463][  0]LogMemory: Physical Memory: 7797.27 MB used,  8470.82 MB free, 16268.10 MB total
+[2026.01.11-08.49.34:463][  0]LogMemory: Virtual Memory: 134208704.00 MB used,  9025.92 MB free, 134217728.00 MB total
+[2026.01.11-08.49.34:472][  0]LogWindows: WindowsPlatformFeatures enabled
+[2026.01.11-08.49.34:575][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2026.01.11-08.49.34:576][  0]LogInit: Using OS detected language (ru-RU).
+[2026.01.11-08.49.34:576][  0]LogInit: Using OS detected locale (ru-RU).
+[2026.01.11-08.49.34:580][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2026.01.11-08.49.34:580][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2026.01.11-08.49.34:580][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2026.01.11-08.49.34:580][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2026.01.11-08.49.34:580][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2026.01.11-08.49.34:580][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2026.01.11-08.49.34:581][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2026.01.11-08.49.34:581][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2026.01.11-08.49.34:582][  0]LogInit: Setting process to per monitor DPI aware
+[2026.01.11-08.49.34:598][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.01.11-08.49.34:621][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2026.01.11-08.49.34:621][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2026.01.11-08.49.35:185][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2026.01.11-08.49.35:413][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2026.01.11-08.49.35:413][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2026.01.11-08.49.35:413][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2026.01.11-08.49.35:413][  0]LogD3D11RHI: D3D11 adapters:
+[2026.01.11-08.49.35:738][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX150' (Feature Level 11_0)
+[2026.01.11-08.49.35:738][  0]LogD3D11RHI:       1968/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2026.01.11-08.49.35:758][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2026.01.11-08.49.35:758][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     Description : NVIDIA GeForce MX150
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     VendorId    : 10de
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     DeviceId    : 1d12
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     SubSysId    : 17011d72
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     Revision    : 00a1
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     DedicatedVideoMemory : 2064052224 bytes
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2026.01.11-08.49.35:766][  0]LogD3D11RHI:     SharedSystemMemory : 8529168384 bytes
+[2026.01.11-08.49.35:767][  0]LogD3D11RHI:     AdapterLuid : 0 56890
+[2026.01.11-08.49.35:774][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2026.01.11-08.49.35:775][  0]LogD3D11RHI:     GPU DeviceId: 0x1d12 (for the marketing name, search the web for "GPU Device Id")
+[2026.01.11-08.49.35:775][  0]LogWindows: EnumDisplayDevices:
+[2026.01.11-08.49.35:775][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2026.01.11-08.49.35:775][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2026.01.11-08.49.35:776][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2026.01.11-08.49.35:777][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX150
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:      Driver Date: Unknown
+[2026.01.11-08.49.35:777][  0]LogRHI: Texture pool is 1377 MB (70% of 1968 MB)
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     Description : NVIDIA GeForce MX150
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     VendorId    : 10de
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     DeviceId    : 1d12
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     SubSysId    : 17011d72
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     Revision    : 00a1
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     DedicatedVideoMemory : 2064052224 bytes
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     SharedSystemMemory : 8529168384 bytes
+[2026.01.11-08.49.35:777][  0]LogD3D11RHI:     AdapterLuid : 0 56890
+[2026.01.11-08.49.36:009][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2026.01.11-08.49.36:010][  0]LogD3D11RHI: Async texture creation enabled
+[2026.01.11-08.49.36:010][  0]LogD3D11RHI: Array index from any shader is supported
+[2026.01.11-08.49.36:046][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2026.01.11-08.49.36:123][  0]LogRHI: GeForceNow SDK initialized: 1
+[2026.01.11-08.49.36:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.01.11-08.49.36:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.01.11-08.49.36:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.01.11-08.49.36:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.01.11-08.49.36:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.01.11-08.49.36:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2026.01.11-08.49.36:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.01.11-08.49.36:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.01.11-08.49.36:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2026.01.11-08.49.36:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2026.01.11-08.49.36:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2026.01.11-08.49.36:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2026.01.11-08.49.36:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2026.01.11-08.49.36:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2026.01.11-08.49.36:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.01.11-08.49.36:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.01.11-08.49.36:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.01.11-08.49.36:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.01.11-08.49.36:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.01.11-08.49.36:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2026.01.11-08.49.36:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.01.11-08.49.36:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.01.11-08.49.36:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.01.11-08.49.36:904][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2026.01.11-08.49.36:918][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.01.11-08.49.36:969][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2026.01.11-08.49.37:031][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2026.01.11-08.49.37:031][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (C:/Unreal Project/Monster_Shooter/Intermediate/Shaders/WorkingDirectory/5936/).
+[2026.01.11-08.49.37:032][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/artem/AppData/Local/Temp/UnrealShaderWorkingDir/8BF3F945430B6D696E407CBD335244FC/'.
+[2026.01.11-08.49.37:032][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2026.01.11-08.49.37:032][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2026.01.11-08.49.37:032][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2026.01.11-08.49.38:449][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2026.01.11-08.49.38:533][  0]LogDerivedDataCache: Loaded boot cache 0.08s 99MB C:/Users/artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2026.01.11-08.49.38:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2026.01.11-08.49.38:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Unreal Project/Monster_Shooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2026.01.11-08.49.38:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2026.01.11-08.49.38:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Unreal Project/Monster_Shooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.01.11-08.49.38:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2026.01.11-08.49.38:557][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2026.01.11-08.49.38:558][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.01.11-08.49.38:558][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2026.01.11-08.49.38:569][  0]LogDerivedDataCache: Speed tests for C:/Users/artem/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2026.01.11-08.49.38:569][  0]LogDerivedDataCache: Display: Performance to C:/Users/artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=723.94MBs, RandomWriteSpeed=93.31MBs. Assigned SpeedClass 'Local'
+[2026.01.11-08.49.38:581][  0]LogDerivedDataCache: Using Local data cache path C:/Users/artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2026.01.11-08.49.38:581][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2026.01.11-08.49.38:581][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2026.01.11-08.49.38:661][  0]LogSlate: Using FreeType 2.10.0
+[2026.01.11-08.49.38:662][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2026.01.11-08.49.38:702][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2026.01.11-08.49.39:186][  0]LogInit: Selected Device Profile: [Windows]
+[2026.01.11-08.49.39:186][  0]LogInit: Active device profile: [000001F0F4585300][000001F0EA5B6CC0 49] Windows
+[2026.01.11-08.49.39:186][  0]LogInit: Profiles: [000001F0F4585300][000001F0EA5B6CC0 49] Windows, [000001F0F454AF00][000001F0F4306E40 49] WindowsNoEditor, [000001F0F4586500][000001F0F430AFC0 49] WindowsServer, [000001F0F454BD00][000001F0F430F140 49] WindowsClient, [000001F0F4587200][000001F0F43132C0 49] IOS, [000001F0F4549300][000001F0F4317440 49] iPadAir, [000001F0F4586900][000001F0F431B5C0 49] iPadAir2, [000001F0F44C5C00][000001F0F4365880 49] IPadPro, [000001F0F44C5D00][000001F0F431F8C0 49] iPadAir3, [000001F0F4549800][000001F0F436DA40 49] iPadAir4, [000001F0F44C6C00][000001F0F4371BC0 49] iPadMini2, [000001F0F4549E00][000001F0F43741C0 49] iPadMini3, [000001F0F44C4B00][000001F0F4378340 49] iPadMini4, [000001F0F454B300][000001F0F437C4C0 49] iPadMini5, [000001F0F44DD300][000001F0F4380700 49] iPhone6, [000001F0F44DD400][000001F0EA5BA740 49] iPodTouch6, [000001F0F4585600][000001F0F4388980 49] iPhone7, [000001F0F4586B00][000001F0F43849C0 49] iPodTouch7, [000001F0F44C7B00][000001F0F4390B40 49] iPhone5S, [000001F0F4585800][000001F0F4394CC0 49] iPhone6Plus, [000001F0F44C7000][000001F0F43C8E40 49] iPhone6S, [000001F0F4586800][000001F0F43FCFC0 49] iPhone6SPlus, [000001F0F44C5500][000001F0F4405140 49] iPhone7Plus, [000001F0F4584100][000001F0F44092C0 49] iPhoneSE, [000001F0F44C4200][000001F0F440D440 49] iPhone8, [000001F0F4585700][000001F0F44115C0 49] iPhone8Plus, [000001F0F44DC100][000001F0F4419740 49] iPhoneX, [000001F0F44C5800][000001F0F441D8C0 49] iPhoneXS, [000001F0F44DCC00][000001F0F4421A40 49] iPhoneXSMax, [000001F0F44C7800][000001F0F4435BC0 49] iPhoneXR, [000001F0F44DFD00][000001F0F44381C0 49] iPhone11, [000001F0F44C6800][000001F0F443C340 49] iPhone11Pro, [000001F0F44DF800][000001F0F54DC4C0 49] iPhone11ProMax, [000001F0F44C4C00][000001F0F54E0640 49] iPhoneSE2, [000001F0F44DE900][000001F0F438C780 49] iPhone12Mini, [000001F0F44C7F00][000001F0F54EC8C0 49] iPhone12, [000001F0F4584A00][000001F0F54F0A00 49] iPhone12Pro, [000001F0F44C7E00][000001F0F54F4B40 49] iPhone12ProMax, [000001F0F4584700][000001F0F54FCCC0 49] iPadPro105, [000001F0F44C5100][000001F0F5500E40 49] iPadPro129, [000001F0F4586E00][000001F0F5504FC0 49] iPadPro97, [000001F0F44C5300][000001F0F5509140 49] iPadPro2_129, [000001F0F4584800][000001F0F550D2C0 49] iPad5, [000001F0F44C6D00][000001F0F5511440 49] iPad6, [000001F0F4587D00][000001F0F55155C0 49] iPad7, [000001F0F44C5200][000001F0F5519740 49] iPad8, [000001F0F4585E00][000001F0F551D8C0 49] iPadPro11, [000001F0F44C6500][000001F0F5521A40 49] iPadPro2_11, [000001F0F4587700][000001F0F5525BC0 49] iPadPro3_129, [000001F0F44C5900][000001F0F55281C0 49] iPadPro4_129, [000001F0F4585100][000001F0F552C340 49] AppleTV, [000001F0F44C5600][000001F0F55304C0 49] AppleTV4K, [000001F0F4586A00][000001F0F5534640 49] TVOS, [000001F0F44C7A00][000001F0F55387C0 49] Mac, [000001F0F4585000][000001F0F553C940 49] MacClient, [000001F0F44C6400][000001F0F54F8A80 49] MacNoEditor, [000001F0F4585900][000001F0F5540BC0 49] MacServer, [000001F0F44C4500][000001F0F5544D00 49] Linux, [000001F0F4584400][000001F0F554CE80 49] LinuxAArch64, [000001F0F44C5A00][000001F0F5551000 49] LinuxNoEditor, [000001F0F4585F00][000001F0F5555180 49] LinuxAArch64NoEditor, [000001F0F44C7C00][000001F0F5559300 49] LinuxClient, [000001F0F4587000][000001F0F555D480 49] LinuxAArch64Client, [000001F0F44C7400][000001F0F5561600 49] LinuxServer, [000001F0F4586200][000001F0F5565780 49] LinuxAArch64Server, [000001F0F44C6200][000001F0F5569900 49] Android, [000001F0F4587900][000001F0F556DA80 49] Android_Low, [000001F0F44C4600][000001F0F5571C00 49] Android_Mid, [000001F0F4586D00][000001F0F55EA200 49] Android_High, [000001F0F44C6300][000001F0F55EE380 49] Android_Default, [000001F0F4587C00][000001F0F55F2500 49] Android_Adreno4xx, [000001F0F44C6B00][000001F0F55F6680 49] Android_Adreno5xx_Low, [000001F0F4584600][000001F0F55FE800 49] Android_Adreno5xx, [000001F0F44C6700][000001F0F5602980 49] Android_Adreno6xx, [000001F0F4586600][000001F0F5606B00 49] Android_Adreno6xx_Vulkan, [000001F0F44C6A00][000001F0F5548C40 49] Android_Mali_T6xx, [000001F0F4584F00][000001F0F561ED80 49] Android_Mali_T7xx, [000001F0F44C5E00][000001F0F5698EC0 49] Android_Mali_T8xx, [000001F0F4586400][000001F0F56B9040 49] Android_Mali_G71, [000001F0F44C4100][000001F0F56BD1C0 49] Android_Mali_G72, [000001F0F4587A00][000001F0F56C1340 49] Android_Mali_G72_Vulkan, [000001F0F44C6F00][000001F0F56C54C0 49] Android_Mali_G76, [000001F0F4584200][000001F0F56C9640 49] Android_Mali_G76_Vulkan, [000001F0F4548F00][000001F0F56CD7C0 49] Android_Mali_G77, [000001F0F44DE100][000001F0F56D1940 49] Android_Mali_G77_Vulkan, [000001F0F4548D00][000001F0F56D5AC0 49] Android_Mali_G78, [000001F0F44DF400][000001F0F56D80C0 49] Android_Mali_G78_Vulkan, [000001F0F4548400][000001F0F56E8240 49] Android_Mali_G710, [000001F0F44DF100][000001F0F56F83C0 49] Android_Mali_G710_Vulkan, [000001F0F4548E00][000001F0F56FC540 49] Android_Vulkan_SM5, [000001F0F44DFA00][000001F0F57006C0 49] Android_PowerVR_G6xxx, [000001F0F454A900][000001F0F5704840 49] Android_PowerVR_GT7xxx, [000001F0F44DEF00][000001F0F57089C0 49] Android_PowerVR_GE8xxx, [000001F0F454A800][000001F0F570CB40 49] Android_PowerVR_GM9xxx, [000001F0F44DDF00][000001F0F5710CC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001F0F454B700][000001F0F56B4E00 49] Android_TegraK1, [000001F0F44DC300][000001F0F571EF40 49] Android_Unknown_Vulkan, [000001F0F4548C00][000001F0F5723080 49] Lumin, [000001F0F44DEE00][000001F0F57271C0 49] Lumin_Desktop, [000001F0F454A300][000001F0F572F340 49] HoloLens, 
+[2026.01.11-08.49.39:520][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.01.11-08.49.39:520][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2026.01.11-08.49.39:520][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.01.11-08.49.39:520][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2026.01.11-08.49.39:520][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.01.11-08.49.39:557][  0]LogNetVersion: Monster_Shooter 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3797625731)
+[2026.01.11-08.49.40:572][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2026.01.11-08.49.40:705][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2026.01.11-08.49.40:721][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2026.01.11-08.49.40:721][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2026.01.11-08.49.40:721][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.01.11-08.49.41:366][  0]LogPython: Using Python 3.7.7
+[2026.01.11-08.49.42:699][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4AC6226942686AB49D6E2CB7982A1455 | Instance: 8FE2131C440F87FCAFE6BB913DFAC58E (MILAPTOP-5936).
+[2026.01.11-08.49.43:011][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.01.11-08.49.43:047][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.01.11-08.49.43:570][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2026.01.11-08.49.43:570][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2026.01.11-08.49.43:570][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2026.01.11-08.49.43:733][  0]SourceControl: Source control is disabled
+[2026.01.11-08.49.43:733][  0]SourceControl: Source control is disabled
+[2026.01.11-08.49.43:740][  0]SourceControl: Source control is disabled
+[2026.01.11-08.49.43:745][  0]SourceControl: Source control is disabled
+[2026.01.11-08.49.43:764][  0]SourceControl: Source control is disabled
+[2026.01.11-08.49.43:779][  0]LogUProjectInfo: Found projects:
+[2026.01.11-08.49.44:304][  0]LogOpenImageDenoise: OIDN starting up
+[2026.01.11-08.49.44:443][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.01.11-08.49.44:518][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.01.11-08.49.44:518][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.01.11-08.49.44:938][  0]LogCollectionManager: Loaded 0 collections in 0.002573 seconds
+[2026.01.11-08.49.45:026][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/Monster_Shooter/Saved/Collections/' took 0.00s
+[2026.01.11-08.49.45:026][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/Monster_Shooter/Content/Developers/artem/Collections/' took 0.00s
+[2026.01.11-08.49.45:026][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/Monster_Shooter/Content/Collections/' took 0.00s
+[2026.01.11-08.49.45:026][  0]LogOcInput: OculusInput pre-init called
+[2026.01.11-08.49.46:057][  0]LogEngine: Initializing Engine...
+[2026.01.11-08.49.46:064][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2026.01.11-08.49.46:065][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2026.01.11-08.49.46:065][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2026.01.11-08.49.46:065][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.01.11-08.49.46:404][  0]LogInit: Initializing FReadOnlyCVARCache
+[2026.01.11-08.49.46:429][  0]LogAIModule: Creating AISystem for world Untitled
+[2026.01.11-08.49.46:431][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.01.11-08.49.46:439][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.01.11-08.49.46:439][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.01.11-08.49.46:441][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.01.11-08.49.46:441][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.01.11-08.49.46:441][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.11-08.49.46:441][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.11-08.49.46:441][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.11-08.49.46:441][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.11-08.49.46:441][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2026.01.11-08.49.46:475][  0]LogAudioMixer: Display: 0: FrontLeft
+[2026.01.11-08.49.46:475][  0]LogAudioMixer: Display: 1: FrontRight
+[2026.01.11-08.49.46:527][  0]LogAudioMixer: Display: Using Audio Device Headphones (Pixel Buds Pro (антон))
+[2026.01.11-08.49.46:527][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.11-08.49.46:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.11-08.49.46:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.11-08.49.46:537][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.01.11-08.49.46:537][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.01.11-08.49.46:537][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.01.11-08.49.46:540][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.01.11-08.49.46:540][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.01.11-08.49.46:540][  0]LogInit: FAudioDevice initialized.
+[2026.01.11-08.49.46:541][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.01.11-08.49.46:541][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.01.11-08.49.46:648][  0]LogDerivedDataCache: Saved boot cache 0.11s 99MB C:/Users/artem/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2026.01.11-08.49.46:649][  0]LogInit: Texture streaming: Enabled
+[2026.01.11-08.49.46:679][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2026.01.11-08.49.46:690][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2026.01.11-08.49.46:690][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2026.01.11-08.49.46:696][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2026.01.11-08.49.46:728][  0]LogInit: Transaction tracking system initialized
+[2026.01.11-08.49.46:785][  0]BlueprintLog: New page: Editor Load
+[2026.01.11-08.49.46:980][  0]LocalizationService: Localization service is disabled
+[2026.01.11-08.49.47:038][  0]TimingProfiler: Initialize
+[2026.01.11-08.49.47:038][  0]TimingProfiler: OnSessionChanged
+[2026.01.11-08.49.47:038][  0]LoadingProfiler: Initialize
+[2026.01.11-08.49.47:039][  0]LoadingProfiler: OnSessionChanged
+[2026.01.11-08.49.47:039][  0]NetworkingProfiler: Initialize
+[2026.01.11-08.49.47:039][  0]NetworkingProfiler: OnSessionChanged
+[2026.01.11-08.49.47:039][  0]MemoryProfiler: Initialize
+[2026.01.11-08.49.47:039][  0]MemoryProfiler: OnSessionChanged
+[2026.01.11-08.49.47:391][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2026.01.11-08.49.47:391][  0]LogCook: Display: Mobile HDR setting 1
+[2026.01.11-08.49.47:823][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Project/Monster_Shooter/Content/' took 0.01s
+[2026.01.11-08.49.48:346][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.01.11-08.49.48:355][  0]SourceControl: Source control is disabled
+[2026.01.11-08.49.48:355][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.580
+[2026.01.11-08.49.48:358][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.01.11-08.49.48:359][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.01.11-08.49.48:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.48:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.01.11-08.49.48:368][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2026.01.11-08.49.48:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2026.01.11-08.49.48:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2026.01.11-08.49.48:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2026.01.11-08.49.48:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2026.01.11-08.49.48:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2026.01.11-08.49.48:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2026.01.11-08.49.48:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2026.01.11-08.49.48:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2026.01.11-08.49.48:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2026.01.11-08.49.48:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2026.01.11-08.49.48:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2026.01.11-08.49.48:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Collapse01.uasset"
+[2026.01.11-08.49.48:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Collapse02.uasset"
+[2026.01.11-08.49.48:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2026.01.11-08.49.48:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Explosion01.uasset"
+[2026.01.11-08.49.48:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Explosion02.uasset"
+[2026.01.11-08.49.48:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2026.01.11-08.49.48:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Fire01.uasset"
+[2026.01.11-08.49.48:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2026.01.11-08.49.48:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2026.01.11-08.49.48:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2026.01.11-08.49.48:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Light01.uasset"
+[2026.01.11-08.49.48:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2026.01.11-08.49.48:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Light02.uasset"
+[2026.01.11-08.49.48:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2026.01.11-08.49.48:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Smoke01.uasset"
+[2026.01.11-08.49.48:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2026.01.11-08.49.48:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2026.01.11-08.49.48:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2026.01.11-08.49.48:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2026.01.11-08.49.48:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2026.01.11-08.49.48:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2026.01.11-08.49.48:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2026.01.11-08.49.48:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Steam01.uasset"
+[2026.01.11-08.49.48:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2026.01.11-08.49.48:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2026.01.11-08.49.48:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2026.01.11-08.49.48:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2026.01.11-08.49.48:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2026.01.11-08.49.48:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2026.01.11-08.49.48:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2026.01.11-08.49.48:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2026.01.11-08.49.48:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2026.01.11-08.49.48:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2026.01.11-08.49.48:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2026.01.11-08.49.48:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2026.01.11-08.49.48:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2026.01.11-08.49.48:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2026.01.11-08.49.48:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2026.01.11-08.49.48:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2026.01.11-08.49.48:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2026.01.11-08.49.48:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2026.01.11-08.49.48:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2026.01.11-08.49.48:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2026.01.11-08.49.48:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Maps/Minimal_Default.umap"
+[2026.01.11-08.49.48:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2026.01.11-08.49.48:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Maps/StarterMap.umap"
+[2026.01.11-08.49.48:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2026.01.11-08.49.48:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2026.01.11-08.49.48:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2026.01.11-08.49.48:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2026.01.11-08.49.48:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2026.01.11-08.49.48:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2026.01.11-08.49.48:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2026.01.11-08.49.48:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2026.01.11-08.49.48:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2026.01.11-08.49.48:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2026.01.11-08.49.48:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2026.01.11-08.49.48:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2026.01.11-08.49.48:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2026.01.11-08.49.48:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2026.01.11-08.49.48:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2026.01.11-08.49.48:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2026.01.11-08.49.48:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2026.01.11-08.49.48:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2026.01.11-08.49.48:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Glass.uasset"
+[2026.01.11-08.49.48:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2026.01.11-08.49.48:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2026.01.11-08.49.48:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2026.01.11-08.49.48:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2026.01.11-08.49.48:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2026.01.11-08.49.48:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2026.01.11-08.49.48:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2026.01.11-08.49.48:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2026.01.11-08.49.48:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2026.01.11-08.49.48:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2026.01.11-08.49.48:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2026.01.11-08.49.48:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2026.01.11-08.49.48:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2026.01.11-08.49.48:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2026.01.11-08.49.48:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2026.01.11-08.49.48:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2026.01.11-08.49.48:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2026.01.11-08.49.48:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2026.01.11-08.49.48:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2026.01.11-08.49.48:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2026.01.11-08.49.48:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2026.01.11-08.49.48:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2026.01.11-08.49.48:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2026.01.11-08.49.48:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2026.01.11-08.49.48:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2026.01.11-08.49.48:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2026.01.11-08.49.48:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/P_Explosion.uasset"
+[2026.01.11-08.49.48:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/P_Fire.uasset"
+[2026.01.11-08.49.48:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/P_Smoke.uasset"
+[2026.01.11-08.49.48:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/P_Sparks.uasset"
+[2026.01.11-08.49.48:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2026.01.11-08.49.48:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2026.01.11-08.49.48:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2026.01.11-08.49.48:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2026.01.11-08.49.48:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2026.01.11-08.49.48:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2026.01.11-08.49.48:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2026.01.11-08.49.48:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2026.01.11-08.49.48:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2026.01.11-08.49.48:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2026.01.11-08.49.48:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2026.01.11-08.49.48:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/MaterialSphere.uasset"
+[2026.01.11-08.49.48:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Bush.uasset"
+[2026.01.11-08.49.48:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Chair.uasset"
+[2026.01.11-08.49.48:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2026.01.11-08.49.48:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Couch.uasset"
+[2026.01.11-08.49.48:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Door.uasset"
+[2026.01.11-08.49.48:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2026.01.11-08.49.48:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2026.01.11-08.49.48:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2026.01.11-08.49.48:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2026.01.11-08.49.48:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2026.01.11-08.49.48:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2026.01.11-08.49.48:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2026.01.11-08.49.48:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Rock.uasset"
+[2026.01.11-08.49.48:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Shelf.uasset"
+[2026.01.11-08.49.48:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Stairs.uasset"
+[2026.01.11-08.49.48:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_Statue.uasset"
+[2026.01.11-08.49.48:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_TableRound.uasset"
+[2026.01.11-08.49.48:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2026.01.11-08.49.48:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2026.01.11-08.49.48:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2026.01.11-08.49.48:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2026.01.11-08.49.48:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2026.01.11-08.49.48:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2026.01.11-08.49.48:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2026.01.11-08.49.48:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2026.01.11-08.49.48:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2026.01.11-08.49.48:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2026.01.11-08.49.48:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2026.01.11-08.49.48:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2026.01.11-08.49.48:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2026.01.11-08.49.48:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2026.01.11-08.49.48:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2026.01.11-08.49.48:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2026.01.11-08.49.48:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2026.01.11-08.49.48:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2026.01.11-08.49.48:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2026.01.11-08.49.48:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2026.01.11-08.49.48:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2026.01.11-08.49.48:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2026.01.11-08.49.48:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2026.01.11-08.49.48:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2026.01.11-08.49.48:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2026.01.11-08.49.48:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2026.01.11-08.49.48:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2026.01.11-08.49.48:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2026.01.11-08.49.48:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2026.01.11-08.49.48:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2026.01.11-08.49.49:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2026.01.11-08.49.49:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2026.01.11-08.49.49:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2026.01.11-08.49.49:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2026.01.11-08.49.49:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2026.01.11-08.49.49:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2026.01.11-08.49.49:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2026.01.11-08.49.49:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2026.01.11-08.49.49:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2026.01.11-08.49.49:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2026.01.11-08.49.49:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2026.01.11-08.49.49:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2026.01.11-08.49.49:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2026.01.11-08.49.49:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2026.01.11-08.49.49:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2026.01.11-08.49.49:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2026.01.11-08.49.49:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2026.01.11-08.49.49:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2026.01.11-08.49.49:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2026.01.11-08.49.49:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2026.01.11-08.49.49:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2026.01.11-08.49.49:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2026.01.11-08.49.49:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2026.01.11-08.49.49:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2026.01.11-08.49.49:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2026.01.11-08.49.49:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2026.01.11-08.49.49:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2026.01.11-08.49.49:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2026.01.11-08.49.49:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2026.01.11-08.49.49:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2026.01.11-08.49.49:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2026.01.11-08.49.49:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2026.01.11-08.49.49:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2026.01.11-08.49.49:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2026.01.11-08.49.49:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2026.01.11-08.49.49:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2026.01.11-08.49.49:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2026.01.11-08.49.49:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2026.01.11-08.49.49:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2026.01.11-08.49.49:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2026.01.11-08.49.49:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2026.01.11-08.49.49:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Door_M.uasset"
+[2026.01.11-08.49.49:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Door_N.uasset"
+[2026.01.11-08.49.49:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2026.01.11-08.49.49:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2026.01.11-08.49.49:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2026.01.11-08.49.49:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2026.01.11-08.49.49:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2026.01.11-08.49.49:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2026.01.11-08.49.49:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2026.01.11-08.49.49:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2026.01.11-08.49.49:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2026.01.11-08.49.49:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2026.01.11-08.49.49:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2026.01.11-08.49.49:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2026.01.11-08.49.49:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2026.01.11-08.49.49:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2026.01.11-08.49.49:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2026.01.11-08.49.49:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2026.01.11-08.49.49:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2026.01.11-08.49.49:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2026.01.11-08.49.49:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2026.01.11-08.49.49:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2026.01.11-08.49.49:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2026.01.11-08.49.49:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2026.01.11-08.49.49:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2026.01.11-08.49.49:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2026.01.11-08.49.49:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2026.01.11-08.49.49:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2026.01.11-08.49.49:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2026.01.11-08.49.49:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2026.01.11-08.49.49:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2026.01.11-08.49.49:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2026.01.11-08.49.49:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2026.01.11-08.49.49:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2026.01.11-08.49.49:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2026.01.11-08.49.49:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2026.01.11-08.49.49:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2026.01.11-08.49.49:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2026.01.11-08.49.49:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2026.01.11-08.49.49:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2026.01.11-08.49.49:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2026.01.11-08.49.49:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2026.01.11-08.49.49:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2026.01.11-08.49.49:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2026.01.11-08.49.49:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2026.01.11-08.49.49:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2026.01.11-08.49.49:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2026.01.11-08.49.49:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2026.01.11-08.49.49:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2026.01.11-08.49.49:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2026.01.11-08.49.49:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2026.01.11-08.49.49:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2026.01.11-08.49.49:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2026.01.11-08.49.49:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Water_M.uasset"
+[2026.01.11-08.49.49:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Water_N.uasset"
+[2026.01.11-08.49.49:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2026.01.11-08.49.49:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2026.01.11-08.49.49:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2026.01.11-08.49.49:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2026.01.11-08.49.49:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2026.01.11-08.49.49:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2026.01.11-08.49.49:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2026.01.11-08.49.49:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2026.01.11-08.49.49:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Unreal Project/Monster_Shooter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2026.01.11-08.49.49:970][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2026.01.11-08.49.50:023][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2026.01.11-08.49.50:034][  0]LogSavePackage: Moving 'C:/Unreal Project/Monster_Shooter/Saved/Floor_400x40009A081504015D32C215903AE1D0BB8CF.tmp' to 'C:/Unreal Project/Monster_Shooter/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2026.01.11-08.49.50:036][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2026.01.11-08.49.50:037][  0]Cmd: MAP LOAD FILE="C:/Unreal Project/Monster_Shooter/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.01.11-08.49.50:038][  0]LightingResults: New page: Lighting Build
+[2026.01.11-08.49.50:040][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.01.11-08.49.50:040][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.11-08.49.50:040][  0]MapCheck: New page: Map Check
+[2026.01.11-08.49.50:040][  0]LightingResults: New page: Lighting Build
+[2026.01.11-08.49.50:051][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.11-08.49.50:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.11-08.49.50:129][  0]LogTexture: Display: Building textures: DeprecatedTextureD5B55AC7496CD3FBF6154CA3715BB71F (BGRA8, 128X128)
+[2026.01.11-08.49.50:160][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2026.01.11-08.49.50:161][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2026.01.11-08.49.50:173][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.11-08.49.50:184][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.11-08.49.50:186][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.11-08.49.50:186][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,198ms to complete.
+[2026.01.11-08.49.50:186][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.149
+[2026.01.11-08.49.50:189][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.414
+[2026.01.11-08.49.50:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-08.49.50:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-08.49.50:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-08.49.50:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.11-08.49.50:383][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3826 classes and 930 folders.
+[2026.01.11-08.49.50:388][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2026.01.11-08.49.50:391][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.01.11-08.49.50:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.01.11-08.49.50:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2026.01.11-08.49.50:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2026.01.11-08.49.50:392][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2026.01.11-08.49.50:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2026.01.11-08.49.50:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2026.01.11-08.49.50:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2026.01.11-08.49.50:393][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2026.01.11-08.49.50:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2026.01.11-08.49.50:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2026.01.11-08.49.50:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2026.01.11-08.49.50:395][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.01.11-08.49.50:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.01.11-08.49.50:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.01.11-08.49.50:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2026.01.11-08.49.50:396][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2026.01.11-08.49.50:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2026.01.11-08.49.50:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2026.01.11-08.49.50:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2026.01.11-08.49.50:397][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2026.01.11-08.49.50:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2026.01.11-08.49.50:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2026.01.11-08.49.50:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2026.01.11-08.49.50:398][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2026.01.11-08.49.50:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2026.01.11-08.49.50:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2026.01.11-08.49.50:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2026.01.11-08.49.50:399][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2026.01.11-08.49.50:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2026.01.11-08.49.50:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2026.01.11-08.49.50:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2026.01.11-08.49.50:400][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.01.11-08.49.50:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.01.11-08.49.50:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2026.01.11-08.49.50:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2026.01.11-08.49.50:401][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2026.01.11-08.49.50:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2026.01.11-08.49.50:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2026.01.11-08.49.50:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2026.01.11-08.49.50:402][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2026.01.11-08.49.50:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2026.01.11-08.49.50:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2026.01.11-08.49.50:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2026.01.11-08.49.50:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.01.11-08.49.50:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.01.11-08.49.50:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2026.01.11-08.49.50:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2026.01.11-08.49.50:405][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.01.11-08.49.50:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.01.11-08.49.50:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:405][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2026.01.11-08.49.50:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2026.01.11-08.49.50:406][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.01.11-08.49.50:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.01.11-08.49.50:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2026.01.11-08.49.50:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2026.01.11-08.49.50:407][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2026.01.11-08.49.50:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2026.01.11-08.49.50:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:407][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2026.01.11-08.49.50:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2026.01.11-08.49.50:408][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.01.11-08.49.50:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.01.11-08.49.50:408][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:408][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2026.01.11-08.49.50:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2026.01.11-08.49.50:409][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2026.01.11-08.49.50:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2026.01.11-08.49.50:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:409][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2026.01.11-08.49.50:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2026.01.11-08.49.50:410][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.01.11-08.49.50:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.01.11-08.49.50:410][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:410][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2026.01.11-08.49.50:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2026.01.11-08.49.50:412][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.01.11-08.49.50:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.01.11-08.49.50:412][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:412][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2026.01.11-08.49.50:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2026.01.11-08.49.50:413][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.01.11-08.49.50:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.01.11-08.49.50:413][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:413][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2026.01.11-08.49.50:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2026.01.11-08.49.50:414][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.01.11-08.49.50:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.01.11-08.49.50:414][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:414][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2026.01.11-08.49.50:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2026.01.11-08.49.50:415][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.01.11-08.49.50:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.01.11-08.49.50:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2026.01.11-08.49.50:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2026.01.11-08.49.50:416][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2026.01.11-08.49.50:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2026.01.11-08.49.50:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:416][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2026.01.11-08.49.50:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2026.01.11-08.49.50:418][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.01.11-08.49.50:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.01.11-08.49.50:418][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:418][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2026.01.11-08.49.50:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2026.01.11-08.49.50:419][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.01.11-08.49.50:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.01.11-08.49.50:419][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:419][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2026.01.11-08.49.50:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2026.01.11-08.49.50:420][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2026.01.11-08.49.50:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.01.11-08.49.50:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2026.01.11-08.49.50:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.01.11-08.49.50:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2026.01.11-08.49.50:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2026.01.11-08.49.50:544][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2026.01.11-08.49.50:545][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2026.01.11-08.49.50:695][  0]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.01.11-08.49.50:698][  0]LogSlate: Took 0.000451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.01.11-08.49.50:699][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.01.11-08.49.50:776][  0]LogRenderer: Reallocating scene render targets to support 632x316 Format 10 NumSamples 1 (Frame:1).
+[2026.01.11-08.49.50:837][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.11-08.49.50:917][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2026.01.11-08.49.50:917][  0]LogLoad: (Engine Initialization) Total time: 19.14 seconds
+[2026.01.11-08.49.50:917][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2026.01.11-08.49.50:950][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2026.01.11-08.49.50:950][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2026.01.11-08.49.50:990][  0]LogAssetRegistry: Asset discovery search completed in 12.2909 seconds
+[2026.01.11-08.49.51:000][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2026.01.11-08.49.51:081][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.01.11-08.50.23:369][708]LogRHI: Error: Present Fail Count 1
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SyncInterval 0
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.Width 422
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.Height 80
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000C0536
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.Windowed true
+[2026.01.11-08.50.23:369][708]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2026.01.11-08.50.23:379][708]LogRHI: Error: SwapChainDesc.Flags 2050
+[2026.01.11-08.50.23:380][708]LogRHI: Error: Present Fail Count 1
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SyncInterval 0
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.Width 192
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.Height 785
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060456
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.Windowed true
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2026.01.11-08.50.23:380][708]LogRHI: Error: SwapChainDesc.Flags 2050
+[2026.01.11-08.50.23:380][708]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:360 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_REMOVED
+[2026.01.11-08.50.23:381][708]LogD3D11RHI: [Aftermath] GDynamicRHI=000001F0D5044980, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2026.01.11-08.50.23:381][708]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
